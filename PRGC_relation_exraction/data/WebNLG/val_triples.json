@@ -1,0 +1,1081 @@
+[
+    {
+        "text": "The manager of FC Magdeburg is Jens Hartel who played for Berliner AK 07 and belongs to the club 1 . FC Union Berlin .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Jens Hartel"
+            ],
+            [
+                "Jens Hartel",
+                "club",
+                "Berliner AK 07"
+            ],
+            [
+                "Jens Hartel",
+                "club",
+                "1 . FC Union Berlin"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Calcio ChievoVerona is managed by Rolando Maran , who was born in Italy and is in the Carrarese Calcio club .",
+        "triple_list": [
+            [
+                "Rolando Maran",
+                "placeOfBirth",
+                "Italy"
+            ],
+            [
+                "Rolando Maran",
+                "club",
+                "Carrarese Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Michele Marcolini manages the A.C. Lumezzane but also plays for Torino F.C . and Vicenza Calcio .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Torino"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Vicenza Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "A.E Dimitra Efxeinoupolis is located in Greece where the capital is Athens and the leader is Nikos Voutsis .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "capital",
+                "Athens"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Nikos Voutsis"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece where they speak Greek . The leader of Greece is Alexis Tsipras .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Alexis Tsipras"
+            ],
+            [
+                "Greece",
+                "language",
+                "Greek"
+            ]
+        ]
+    },
+    {
+        "text": "The ground of A.E Dimitra Efxeinoupolis is located in the town of Efxeinoupoli and has 1500 member . They were in the 201415 A EPSTH Greece season .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "numberOfMembers",
+                "1500"
+            ],
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "ground",
+                "Efxeinoupoli"
+            ],
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "season",
+                "201415 A EPSTH"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker who plays for Runcorn F.C . Halton and is attached to Irlam Town Football Club .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Irlam Town"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Runcorn F.C . Halton"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Sportiva Calcio , better known as A.S. Livorno Calcio , is a 19238 member club whose ground is the Stadio Armando Picchi .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "ground",
+                "Stadio Armando Picchi"
+            ],
+            [
+                "A.S. Livorno Calcio",
+                "numberOfMembers",
+                "19238"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Livorno Calcio are managed by Christian Panucci who plays for A.S. Roma and is attached to the club Genoa CFC .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "A.S. Roma"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Genoa"
+            ]
+        ]
+    },
+    {
+        "text": "AFC Ajax ( amateurs ) 's ground is Sportpark De Toekomst which is operated by AFC Ajax . The tenant of the ground is Jong Ajax .",
+        "triple_list": [
+            [
+                "AFC Ajax ( amateurs )",
+                "ground",
+                "Sportpark De Toekomst"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "operator",
+                "AFC Ajax"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "tenant",
+                "Jong Ajax"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom has been manager of AZ Alkmaar , he is in Vitesse Arnhem and plays for AFC Ajax .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "AFC Ajax"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "Vitesse Arnhem"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom is a player in İstanbulspor A.Ş but also manages the AZ Alkmaair and plays for R.S.C . Anderlecht .",
+        "triple_list": [
+            [
+                "AZ",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "R.S.C . Anderlecht"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "İstanbulspor"
+            ]
+        ]
+    },
+    {
+        "text": "Massimo Drago manages A.C. Cesena and is a former player of Vigor Lamezia and S.S.D . Potenza Calcio .",
+        "triple_list": [
+            [
+                "Massimo Drago",
+                "club",
+                "Vigor Lamezia"
+            ],
+            [
+                "A.C. Cesena",
+                "manager",
+                "Massimo Drago"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "S.S.D . Potenza Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Amatriciana sauce is a traditional Italian sauce , from Italy , where the language is Italian , and the leader is Pietro Grasso .",
+        "triple_list": [
+            [
+                "Amatriciana sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "language",
+                "Italian"
+            ],
+            [
+                "Italy",
+                "leaderName",
+                "Pietro Grasso"
+            ]
+        ]
+    },
+    {
+        "text": "Chorizo is an ingredient in Bandeja paisa , a dish from the Antioquia Department region , in Colombia .",
+        "triple_list": [
+            [
+                "Antioquia Department",
+                "country",
+                "Colombia"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Chorizo"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Arem-arem is a dish of Javanese cuisine , originating from the country of Indonesia , one of whose leaders is Jusuf Kalla .",
+        "triple_list": [
+            [
+                "Arem-arem",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Indonesia",
+                "leaderName",
+                "Jusuf Kalla"
+            ],
+            [
+                "Arem-arem",
+                "region",
+                "Javanese cuisine"
+            ]
+        ]
+    },
+    {
+        "text": "Found nationwide bit more specific to Java is the dish Arem-arem . The main ingredients of which are ; compressed rice cooked in Banana leaf with vegetables or minced meat fillings .",
+        "triple_list": [
+            [
+                "Arem-arem",
+                "ingredient",
+                "Banana leaf"
+            ]
+        ]
+    },
+    {
+        "text": "Arrabbiata sauce is from Italy where Sergio Mattarella is the leader and the capital is Rome .",
+        "triple_list": [
+            [
+                "Arrabbiata sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ],
+            [
+                "Italy",
+                "leaderName",
+                "Sergio Mattarella"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre , containing white rice , is from the Catalonia region in Spain .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "region",
+                "Catalonia"
+            ]
+        ]
+    },
+    {
+        "text": "The people of Spain are known as Spaniards and are lead by Felipe VI of Spain . Arròs negre is from the country .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Spain",
+                "demonym",
+                "Spaniards"
+            ],
+            [
+                "Spain",
+                "leaderName",
+                "Felipe VI of Spain"
+            ]
+        ]
+    },
+    {
+        "text": "The main ingredients of Asam pedas are fish cooked in sour and hot sauce . Asam pedas is a dish from Sumatra , in Indonesia .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Asam pedas",
+                "region",
+                "Sumatra"
+            ]
+        ]
+    },
+    {
+        "text": "Fried chicken is one of the ingredients in the dish Ayam Penyet . This is a dish from both Malaysia and Indonesia .",
+        "triple_list": [
+            [
+                "Ayam",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Ayam",
+                "ingredient",
+                "Fried chicken"
+            ],
+            [
+                "Ayam",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Found in Java , the food Ayam penyet comes from the region of Malaysia where on of the ethnic groups is Malaysian Chinese .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "ethnicGroup",
+                "Malaysian Chinese"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "text": "Sausage is an ingredient of a Bacon Explosion , a main course , which comes from the United States .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "Bacon Explosion",
+                "ingredient",
+                "Sausage"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon Explosion comes from the United States , whose capital is Washington , D.C. and one of whose leaders is Joe Biden .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "leaderName",
+                "Joe Biden"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington , D.C."
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska , that contains Christmas pudding , is from the country of France . Baked Alaska is served in the region of Hong Kong .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "region",
+                "Hong Kong"
+            ],
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Christmas pudding"
+            ]
+        ]
+    },
+    {
+        "text": "The Bakewell tart originates from the Derbyshire Dales region , has frangipane as one of it 's ingredients and Bakewell pudding as a variant .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "dishVariation",
+                "Bakewell tart"
+            ],
+            [
+                "Bakewell tart",
+                "region",
+                "Derbyshire Dales"
+            ]
+        ]
+    },
+    {
+        "text": "Part of Columbian cuisine , Bandeja paisa is a dish from the Antioquia Department region . One of the ingredients in this dish is Cooking plantain .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Cooking plantain"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Chicharrón is an ingredient found in Bandeja paisa , part of Columbian cuisine , is found in the Antioquia Department .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Chicharrón"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ]
+        ]
+    },
+    {
+        "text": "Antioquia Department , Colombia , is the regions where Bandeja paisa comes from , it includes lemons .",
+        "triple_list": [
+            [
+                "Antioquia Department",
+                "country",
+                "Colombia"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Batagor ( and its alternative of Shumai ) and Siomay ( made with Peanut sauce ) are both variations of the same dish .",
+        "triple_list": [
+            [
+                "Batagor",
+                "dishVariation",
+                "Siomay"
+            ],
+            [
+                "Siomay",
+                "ingredient",
+                "Peanut sauce"
+            ],
+            [
+                "Batagor",
+                "dishVariation",
+                "Shumai"
+            ]
+        ]
+    },
+    {
+        "text": "Binignit is a dessert that contains Coconut milk . A cookie is also a dessert .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Coconut milk"
+            ]
+        ]
+    },
+    {
+        "text": "Enrique Pena Nieto and Silvano Aureoles Conejo are leaders in Mexico where they eat Bionico .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Silvano Aureoles Conejo"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Enrique"
+            ]
+        ]
+    },
+    {
+        "text": "Found in the Andalusia region , Chicharrón is one of the ingredients in Bandeja paisa which is is part of Columbian cuisine .",
+        "triple_list": [
+            [
+                "Chicharrón",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Chicharrón"
+            ]
+        ]
+    },
+    {
+        "text": "The llocano people are an ethnic group from the Philippines , where the spoken language is Philippine Spanish . It is also where Batchoy comes from .",
+        "triple_list": [
+            [
+                "Philippines",
+                "language",
+                "Philippine Spanish"
+            ],
+            [
+                "Batchoy",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is a dish from the country of Singapore where the currency is the Singapore dollar and the leader is Tony Tan .",
+        "triple_list": [
+            [
+                "Singapore",
+                "leaderName",
+                "Tony Tan"
+            ],
+            [
+                "Beef kway teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "currency",
+                "Singapore dollar"
+            ]
+        ]
+    },
+    {
+        "text": "Spaniards are the ethnic group of Spain , where the language is Spanish and one of the traditional dishes is Arròs negre .",
+        "triple_list": [
+            [
+                "Spain",
+                "language",
+                "Spanish"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Spain",
+                "ethnicGroup",
+                "Spaniards"
+            ]
+        ]
+    },
+    {
+        "text": "Alan Bean has retired , having been born in Wheeler , Texas and serving on the crew of Apollo 12 .",
+        "triple_list": [
+            [
+                "Alan Bean",
+                "was a crew member of",
+                "Apollo 12"
+            ],
+            [
+                "Alan Bean",
+                "birthPlace",
+                "Wheeler , Texas"
+            ]
+        ]
+    },
+    {
+        "text": "Alan Shepard who was born on Nov 18 , 1923 in New Hampshire was selected by NASA in 1959 .",
+        "triple_list": [
+            [
+                "Alan Shepard",
+                "birthPlace",
+                "New Hampshire"
+            ],
+            [
+                "Alan Shepard",
+                "was selected by NASA",
+                "1959"
+            ]
+        ]
+    },
+    {
+        "text": "Born on January 2 1930 in Glen Ridge , NJ , Buzz Aldrin was a fighter pilot .",
+        "triple_list": [
+            [
+                "Buzz Aldrin",
+                "birthPlace",
+                "Glen Ridge ,"
+            ]
+        ]
+    },
+    {
+        "text": "William Anders , born in British Hong Kong , was a fighter pilot a member of Apollo 8 's crew .",
+        "triple_list": [
+            [
+                "William Anders",
+                "birthPlace",
+                "British Hong Kong"
+            ],
+            [
+                "William Anders",
+                "was a crew member of",
+                "Apollo 8"
+            ]
+        ]
+    },
+    {
+        "text": "NASA 's Apollo 8 crew included Frank Borman and William Anders .",
+        "triple_list": [
+            [
+                "William Anders",
+                "was a crew member of",
+                "Apollo 8"
+            ],
+            [
+                "Apollo 8",
+                "crewMembers",
+                "Frank Borman"
+            ],
+            [
+                "Apollo 8",
+                "operator",
+                "NASA"
+            ]
+        ]
+    },
+    {
+        "text": "William Anders joined NASA in 1963 , is an American and was born in British Hong Kong .",
+        "triple_list": [
+            [
+                "William Anders",
+                "was selected by NASA",
+                "1963"
+            ],
+            [
+                "William Anders",
+                "birthPlace",
+                "British Hong Kong"
+            ]
+        ]
+    },
+    {
+        "text": "1634 The Ram Rebellion was preceded by 1634 The Galileo Affair , which is available in English . English is spoken in Great Britain .",
+        "triple_list": [
+            [
+                "1634",
+                "language",
+                "English"
+            ],
+            [
+                "English",
+                "spokenIn",
+                "Great Britain"
+            ],
+            [
+                "1634",
+                "precededBy",
+                "1634"
+            ]
+        ]
+    },
+    {
+        "text": "The AIDS Journal , first published in 1987 , belongs to the academic discipline HIV/AIDS , predominantly HIV .",
+        "triple_list": [
+            [
+                "AIDS",
+                "academicDiscipline",
+                "HIV"
+            ],
+            [
+                "AIDS",
+                "academicDiscipline",
+                "HIV/AIDS"
+            ],
+            [
+                "AIDS",
+                "firstPublicationYear",
+                "1987"
+            ]
+        ]
+    },
+    {
+        "text": "A Long Long Way was written in Ireland and published by Penguin Random House ( parent company Viking Press ) .",
+        "triple_list": [
+            [
+                "A Long Long Way",
+                "country",
+                "Ireland"
+            ],
+            [
+                "A Long Long Way",
+                "publisher",
+                "Viking Press"
+            ],
+            [
+                "Viking Press",
+                "parentCompany",
+                "Penguin Random House"
+            ]
+        ]
+    },
+    {
+        "text": "A Loyal Character Dancer is written in English and published by Soho Press in the United States .",
+        "triple_list": [
+            [
+                "A Loyal Character Dancer",
+                "language",
+                "English"
+            ],
+            [
+                "A Loyal Character Dancer",
+                "publisher",
+                "Soho Press"
+            ],
+            [
+                "A Loyal Character Dancer",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "A Loyal Character Dancer is published by Soho Press in the United States . The United States has an ethnic group called Asian Americans .",
+        "triple_list": [
+            [
+                "A Loyal Character Dancer",
+                "publisher",
+                "Soho Press"
+            ],
+            [
+                "A Loyal Character Dancer",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "Asian Americans"
+            ]
+        ]
+    },
+    {
+        "text": "A Severed Wasp has 388 pages , can be found in print and has the OCLC number 8805735 .",
+        "triple_list": [
+            [
+                "A Severed Wasp",
+                "OCLC_number",
+                "8805735"
+            ]
+        ]
+    },
+    {
+        "text": "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg is concerned with the academic discipline of Pure Mathematics . It has the ISSN number 1865-8784 and the abbreviation of Abh . Math . Semin . Univ . Hambg . .",
+        "triple_list": [
+            [
+                "Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg",
+                "academicDiscipline",
+                "Pure"
+            ]
+        ]
+    },
+    {
+        "text": "The printed book Above The Veil is 248 pages long and the author is Garth Nix .",
+        "triple_list": [
+            [
+                "Above",
+                "author",
+                "Garth Nix"
+            ]
+        ]
+    },
+    {
+        "text": "The American Journal of Mathematics is published by the Johns Hopkins University Press in the United States and has the OCLC number 1480153 .",
+        "triple_list": [
+            [
+                "American Journal of Mathematics",
+                "publisher",
+                "Johns Hopkins University Press"
+            ],
+            [
+                "Johns Hopkins University Press",
+                "country",
+                "United States"
+            ],
+            [
+                "American Journal of Mathematics",
+                "OCLC_number",
+                "1480153"
+            ]
+        ]
+    },
+    {
+        "text": "John Cowper Powys was born in Shirley Derbyshire and is the author of Wolf Solent which preceded A Glastonbury Romance .",
+        "triple_list": [
+            [
+                "John Cowper Powys",
+                "birthPlace",
+                "Shirley"
+            ],
+            [
+                "A Glastonbury Romance",
+                "precededBy",
+                "Wolf Solent"
+            ],
+            [
+                "Wolf Solent",
+                "author",
+                "John Cowper Powys"
+            ]
+        ]
+    },
+    {
+        "text": "John Cowper Powys was born in Shirley , Derbyshire . His notable work includes Porius A Romance of the Dark Ages and A Glastonbury Romance .",
+        "triple_list": [
+            [
+                "John Cowper Powys",
+                "birthPlace",
+                "Shirley , Derbyshire"
+            ],
+            [
+                "John Cowper Powys",
+                "notableWork",
+                "Porius"
+            ],
+            [
+                "A Glastonbury Romance",
+                "author",
+                "John Cowper Powys"
+            ]
+        ]
+    },
+    {
+        "text": "The Administrative Science Quarterly , OCLC 1461102 , is published by SAGE Publications founded by Sara Miller McCune .",
+        "triple_list": [
+            [
+                "SAGE Publications",
+                "founder",
+                "Sara Miller McCune"
+            ],
+            [
+                "Administrative Science Quarterly",
+                "OCLC_number",
+                "1461102"
+            ],
+            [
+                "Administrative Science Quarterly",
+                "publisher",
+                "SAGE Publications"
+            ]
+        ]
+    },
+    {
+        "text": "A Fortress of Grey Ice is from the United States where African Americans are one of the ethnic groups and the capital city is Washington D.C .",
+        "triple_list": [
+            [
+                "United States",
+                "ethnicGroup",
+                "African Americans"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington"
+            ],
+            [
+                "A Fortress of Grey Ice",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "A Fortress of Grey Ice is from the United States , where the language is English and where one of the ethnic groups is African American .",
+        "triple_list": [
+            [
+                "United States",
+                "ethnicGroup",
+                "African"
+            ],
+            [
+                "United States",
+                "language",
+                "English"
+            ],
+            [
+                "A Fortress of Grey Ice",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "A severed Wasp originates from the United States , a country that includes many Asian Americans and has Washington , D.C. as its capital .",
+        "triple_list": [
+            [
+                "United States",
+                "ethnicGroup",
+                "Asian Americans"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington , D.C."
+            ],
+            [
+                "A",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "A severed Wasp originates from the United States . where the language is English and the Native Americans are an ethnic group .",
+        "triple_list": [
+            [
+                "United States",
+                "language",
+                "English"
+            ],
+            [
+                "A",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "Native Americans"
+            ]
+        ]
+    },
+    {
+        "text": "A Wizard of Mars is from the United States were they speak English and one of the ethnic groups is Native Americans .",
+        "triple_list": [
+            [
+                "United States",
+                "language",
+                "English"
+            ],
+            [
+                "A Wizard of Mars",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "Native Americans"
+            ]
+        ]
+    }

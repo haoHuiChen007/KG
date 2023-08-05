@@ -1,0 +1,81 @@
+2022-12-29 18:10:30,909:INFO: Model type:
+2022-12-29 18:10:30,909:INFO: device: cpu
+2022-12-29 18:10:30,910:INFO: Load pre-train model weights...
+2022-12-29 18:15:07,047:INFO: Model type:
+2022-12-29 18:15:07,047:INFO: device: cpu
+2022-12-29 18:15:07,047:INFO: Load pre-train model weights...
+2022-12-29 18:17:31,329:INFO: Model type:
+2022-12-29 18:17:31,330:INFO: device: cpu
+2022-12-29 18:17:31,330:INFO: Load pre-train model weights...
+2022-12-29 18:18:07,671:INFO: Model type:
+2022-12-29 18:18:07,671:INFO: device: cpu
+2022-12-29 18:18:07,671:INFO: Load pre-train model weights...
+2022-12-29 18:19:55,007:INFO: Model type:
+2022-12-29 18:19:55,008:INFO: device: cpu
+2022-12-29 18:19:55,008:INFO: Load pre-train model weights...
+2022-12-29 18:23:01,617:INFO: Model type:
+2022-12-29 18:23:01,617:INFO: device: cpu
+2022-12-29 18:23:01,617:INFO: Load pre-train model weights...
+2022-12-29 18:24:52,759:INFO: Model type:
+2022-12-29 18:24:52,759:INFO: device: cpu
+2022-12-29 18:24:52,760:INFO: Load pre-train model weights...
+2022-12-29 18:26:22,125:INFO: Model type:
+2022-12-29 18:26:22,125:INFO: device: cpu
+2022-12-29 18:26:22,125:INFO: Load pre-train model weights...
+2022-12-29 18:26:22,172:INFO: -done
+2022-12-29 18:26:22,172:INFO: Starting training for 20 epoch(s)
+2022-12-29 18:32:18,635:INFO: Model type:
+2022-12-29 18:32:18,635:INFO: device: cpu
+2022-12-29 18:32:18,635:INFO: Load pre-train model weights...
+2022-12-29 18:32:46,721:INFO: Model type:
+2022-12-29 18:32:46,721:INFO: device: cpu
+2022-12-29 18:32:46,721:INFO: Load pre-train model weights...
+2022-12-29 18:32:46,780:INFO: -done
+2022-12-29 18:32:46,780:INFO: Starting training for 20 epoch(s)
+2022-12-29 18:42:19,817:INFO: Model type:
+2022-12-29 18:42:19,818:INFO: device: cpu
+2022-12-29 18:42:19,818:INFO: Load pre-train model weights...
+2022-12-29 18:42:19,898:INFO: -done
+2022-12-29 18:42:19,898:INFO: Starting training for 20 epoch(s)
+2022-12-29 18:43:16,973:INFO: Epoch 1/20
+2022-12-29 23:38:37,689:INFO: Model type:
+2022-12-29 23:38:37,690:INFO: device: cpu
+2022-12-29 23:38:37,690:INFO: Load pre-train model weights...
+2022-12-29 23:38:37,781:INFO: -done
+2022-12-29 23:38:37,781:INFO: Starting training for 20 epoch(s)
+2022-12-29 23:40:04,171:INFO: Epoch 1/20
+2022-12-29 23:57:19,705:INFO: Model type:
+2022-12-29 23:57:19,706:INFO: device: cpu
+2022-12-29 23:57:19,706:INFO: Load pre-train model weights...
+2022-12-29 23:57:19,765:INFO: -done
+2022-12-29 23:57:19,765:INFO: Starting training for 20 epoch(s)
+2022-12-30 00:00:05,589:INFO: Epoch 1/20
+2022-12-30 01:24:51,608:INFO: Model type:
+2022-12-30 01:24:51,608:INFO: device: cpu
+2022-12-30 01:24:51,608:INFO: Load pre-train model weights...
+2022-12-30 01:24:51,680:INFO: -done
+2022-12-30 01:24:51,680:INFO: Starting training for 20 epoch(s)
+2022-12-30 01:33:31,851:INFO: Model type:
+2022-12-30 01:33:31,851:INFO: device: cpu
+2022-12-30 01:33:31,852:INFO: Load pre-train model weights...
+2022-12-30 01:33:31,916:INFO: -done
+2022-12-30 01:33:31,916:INFO: Starting training for 20 epoch(s)
+2022-12-30 01:37:16,805:INFO: Epoch 1/20
+2022-12-30 02:40:22,802:INFO: Model type:
+2022-12-30 02:40:22,803:INFO: device: cpu
+2022-12-30 02:40:22,803:INFO: Load pre-train model weights...
+2022-12-30 02:40:22,861:INFO: -done
+2022-12-30 02:40:22,861:INFO: Starting training for 20 epoch(s)
+2022-12-30 02:44:02,934:INFO: Epoch 1/20
+2023-03-26 15:05:36,599:INFO: Model type:
+2023-03-26 15:05:36,599:INFO: device: cpu
+2023-03-26 15:05:36,599:INFO: Load pre-train model weights...
+2023-03-26 15:07:45,275:INFO: Model type:
+2023-03-26 15:07:45,276:INFO: device: cpu
+2023-03-26 15:07:45,276:INFO: Load pre-train model weights...
+2023-03-26 15:09:15,390:INFO: Model type:
+2023-03-26 15:09:15,391:INFO: device: cpu
+2023-03-26 15:09:15,391:INFO: Load pre-train model weights...
+2023-03-26 15:09:16,189:INFO: -done
+2023-03-26 15:09:16,189:INFO: Starting training for 20 epoch(s)
+2023-03-26 15:10:57,622:INFO: Epoch 1/20

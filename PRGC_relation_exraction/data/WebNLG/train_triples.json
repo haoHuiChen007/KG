@@ -1,0 +1,6211 @@
+[
+    {
+        "text": "Peter Stöger is manager of 1 . FC Köln which has 50000 members and participated in the 2014 season .",
+        "triple_list": [
+            [
+                "1 . FC Köln",
+                "manager",
+                "Peter Stöger"
+            ],
+            [
+                "1 . FC Köln",
+                "season",
+                "2014"
+            ],
+            [
+                "1 . FC Köln",
+                "numberOfMembers",
+                "50000"
+            ]
+        ]
+    },
+    {
+        "text": "Peter Stöger is manager of 1 . FC Köln who were in the 201415 Bundesliga season and have 50000 members .",
+        "triple_list": [
+            [
+                "1 . FC Köln",
+                "manager",
+                "Peter Stöger"
+            ],
+            [
+                "1 . FC Köln",
+                "season",
+                "201415 Bundesliga"
+            ],
+            [
+                "1 . FC Köln",
+                "numberOfMembers",
+                "50000"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of 1 . FC Koln is Peter Stoger who plays for the Austria national football team and is a member of the FK Austria Wien soccer club .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Peter"
+            ],
+            [
+                "Peter",
+                "club",
+                "Austria national football team"
+            ],
+            [
+                "Peter",
+                "club",
+                "FK Austria Wien"
+            ]
+        ]
+    },
+    {
+        "text": "Peter Stöger is manager of 1 . FC Köln and has played for SC Wiener Neustadt and the Austria national football team .",
+        "triple_list": [
+            [
+                "1 . FC Köln",
+                "manager",
+                "Peter Stöger"
+            ],
+            [
+                "Peter Stöger",
+                "club",
+                "SC Wiener Neustadt"
+            ],
+            [
+                "Peter Stöger",
+                "club",
+                "Austria national football team"
+            ]
+        ]
+    },
+    {
+        "text": "Peter Stöger is manager of 1 . FC Köln and is affiliated with SC Wiener Neustadt . He is currently at the FK Austria Wien club .",
+        "triple_list": [
+            [
+                "1 . FC Köln",
+                "manager",
+                "Peter Stöger"
+            ],
+            [
+                "Peter Stöger",
+                "club",
+                "SC Wiener Neustadt"
+            ],
+            [
+                "Peter Stöger",
+                "club",
+                "FK Austria Wien"
+            ]
+        ]
+    },
+    {
+        "text": "1 FC Magdeburg has 27250 members and played in the 3 Liga League in the 2014 season .",
+        "triple_list": [
+            [
+                "1",
+                "league",
+                "3"
+            ],
+            [
+                "1",
+                "season",
+                "2014"
+            ],
+            [
+                "1",
+                "numberOfMembers",
+                "27250"
+            ]
+        ]
+    },
+    {
+        "text": "1 . FC Magdeburg has 27250 members and are in the 3 . Liga league . During the 2014-2015 they played in the Regionalliga .",
+        "triple_list": [
+            [
+                "1 . FC Magdeburg",
+                "league",
+                "3 . Liga"
+            ],
+            [
+                "1 . FC Magdeburg",
+                "numberOfMembers",
+                "27250"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of FC Magdeburg is Jens Härtel who used to play for Berliner AK 07 and currently plays for 1 . FC Lokomotive Leipzig .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "1 . FC Lokomotive Leipzig"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "Berliner AK 07"
+            ]
+        ]
+    },
+    {
+        "text": "The first club Jens Härtel played for was FC Lokomotive Leipzig . He also played for RB Leipzig and was the manager of 1 FC Magdeburg .",
+        "triple_list": [
+            [
+                "1",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "1"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "RB Leipzig"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of FC Magdeburg is Jens Härtel who also plays for 1 . FC Lokomotive Leipzig and SV Babelsberg 03 .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "1 . FC Lokomotive Leipzig"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "SV Babelsberg 03"
+            ]
+        ]
+    },
+    {
+        "text": "Jens Hartel , who plays for SV Germania Schoneiche , is part of 1 . FC Union Berlin and has been the manager of 1 FC Magdeburg .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Jens"
+            ],
+            [
+                "Jens",
+                "club",
+                "1 . FC Union Berlin"
+            ],
+            [
+                "Jens",
+                "club",
+                "SV Germania"
+            ]
+        ]
+    },
+    {
+        "text": "Jens Härtel ( Berliner AK 07 ) played for FC Sachsen Leipzig , has been the manager of 1 FC Magdeburg .",
+        "triple_list": [
+            [
+                "1",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "Berliner AK 07"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "FC Sachsen Leipzig"
+            ]
+        ]
+    },
+    {
+        "text": "Jens Härtel is part of the SV Babelsberg 03 club . He previously managed 1 FC Magdeburg and played for Berliner AK 07 .",
+        "triple_list": [
+            [
+                "1",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "Berliner AK 07"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "SV Babelsberg 03"
+            ]
+        ]
+    },
+    {
+        "text": "Jens Härtel was previously the manager of 1 FC Magdeburg . He is in the RB Leipzig club and is part of the club 1 . FC Union Berlin .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "RB Leipzig"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "1 . FC Union Berlin"
+            ]
+        ]
+    },
+    {
+        "text": "Jens Härtel has played for SV Babelsberg 03 and 1 . FC Union Berlin . He is manager of 1 FC Magdeburg .",
+        "triple_list": [
+            [
+                "1 . FC",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "SV Babelsberg 03"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "1 . FC Union Berlin"
+            ]
+        ]
+    },
+    {
+        "text": "Jens Härtel is part of the SV Babelsberg 03 club . He has also been manager of 1 FC Magdeburg and represented FC Sachsen Leipzig .",
+        "triple_list": [
+            [
+                "1",
+                "manager",
+                "Jens Härtel"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "SV Babelsberg 03"
+            ],
+            [
+                "Jens Härtel",
+                "club",
+                "FC Sachsen Leipzig"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Cesena ground is in Cesena and they play in the Serie B league whose champions are Carpi F.C . 1909 .",
+        "triple_list": [
+            [
+                "A.C. Cesena",
+                "ground",
+                "Cesena"
+            ],
+            [
+                "A.C. Cesena",
+                "league",
+                "Serie B"
+            ],
+            [
+                "Serie B",
+                "champions",
+                "Carpi F.C . 1909"
+            ]
+        ]
+    },
+    {
+        "text": "23900 member club A.C. Cesena plays in Italy in Serie B .",
+        "triple_list": [
+            [
+                "A.C. Cesena",
+                "ground",
+                "Italy"
+            ],
+            [
+                "A.C. Cesena",
+                "league",
+                "Serie B"
+            ],
+            [
+                "A.C. Cesena",
+                "numberOfMembers",
+                "23900"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Cesana 's ground is the Stadio Dino Manuzzi . They have 23900 members and play in the Serie B league .",
+        "triple_list": [
+            [
+                "A.C.",
+                "league",
+                "Serie B"
+            ],
+            [
+                "A.C.",
+                "numberOfMembers",
+                "23900"
+            ],
+            [
+                "A.C.",
+                "ground",
+                "Stadio Dino Manuzzi"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Cesena play in the Serie B league which has been won by Carpi F.C . 1909 in the past . Their ground is located in Italy .",
+        "triple_list": [
+            [
+                "A.C. Cesena",
+                "league",
+                "Serie B"
+            ],
+            [
+                "Serie B",
+                "champions",
+                "Carpi F.C . 1909"
+            ],
+            [
+                "A.C. Cesena",
+                "ground",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "A.C.Cesena plays in Stadio Dino Manuzzi and is also the in the Serie B league , and the Carpi F.C . 1909 won the championship Serie B division .",
+        "triple_list": [
+            [
+                "Serie B",
+                "champions",
+                "Carpi F.C . 1909"
+            ]
+        ]
+    },
+    {
+        "text": "Massimo Drago manages A.C. Cesena and is attached to the club Vigor Lamezia although he plays for Calcio Catania .",
+        "triple_list": [
+            [
+                "A.C. Cesena",
+                "manager",
+                "Massimo Drago"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "Vigor Lamezia"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "Calcio Catania"
+            ]
+        ]
+    },
+    {
+        "text": "Verona , Italy is the home to A.C. Chievo Verona which has 39371 members and the full name of `` Associazione Calcio ChievoVerona S.r.l . `` .",
+        "triple_list": [
+            [
+                "A.C. Chievo Verona",
+                "fullname",
+                "`` Associazione Calcio ChievoVerona S.r.l . ``"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "ground",
+                "``"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "numberOfMembers",
+                "39371"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of A.C. Chievo Verona is Associazione Calcio ChievoVerona S.r.l . and they have 39371 members while their home ground is Stadio Marc Antonio Bentegodi .",
+        "triple_list": [
+            [
+                "A.C. Chievo Verona",
+                "ground",
+                "Stadio Marc Antonio Bentegodi"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "numberOfMembers",
+                "39371"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Calcio ChievoVerona is managed by Rolando Maran , who is a member of the Calcio Cantania and plays at the Carrarese Calcio .",
+        "triple_list": [
+            [
+                "Rolando Maran",
+                "club",
+                "Calcio"
+            ],
+            [
+                "Rolando Maran",
+                "club",
+                "Carrarese Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Calcio Chievo Verona is managed by Rolando Maran , who has previously worked at F.C . Bari 1908 and Carrarese Calcio .",
+        "triple_list": [
+            [
+                "Rolando Maran",
+                "club",
+                "F.C . Bari 1908"
+            ],
+            [
+                "Rolando Maran",
+                "club",
+                "Carrarese Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Calcio ChievoVerona is managed by Rolando Maran , who plays for Unione Triestina 2012 S.S.D at the Carrarese Calcio .",
+        "triple_list": [
+            [
+                "Rolando Maran",
+                "club",
+                "Unione Triestina 2012"
+            ],
+            [
+                "Rolando Maran",
+                "club",
+                "Carrarese Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.C. Chievo Verona is Rolando Maran , who is in Varese Calcio S.S.D . club and plays for Carrarese Calcio .",
+        "triple_list": [
+            [
+                "A.C. Chievo Verona",
+                "manager",
+                "Rolando Maran"
+            ],
+            [
+                "Rolando Maran",
+                "club",
+                "Varese Calcio"
+            ],
+            [
+                "Rolando Maran",
+                "club",
+                "Carrarese Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Calcio Lumezzane SpA is abbreviated to A.C. Lumezzane , they have 4150 members and play in the Lega Pro league .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "numberOfMembers",
+                "4150"
+            ],
+            [
+                "A.C. Lumezzane",
+                "league",
+                "Lega Pro"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Lumezzane has 4150 members and has played in the Lega Pro during the 2014 season .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "numberOfMembers",
+                "4150"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.C. Lumezzane is Michele Marcolini who was at F.C . Bari 1908 but currently plays for A.C. Chievo Verona .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "A.C. Chievo Verona"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "F.C . Bari 1908"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.C. Lumezzane is Michele Marcolini plays for A.C. Chievo Verona . and is at Torino F.C . club .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "A.C. Chievo Verona"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Torino"
+            ]
+        ]
+    },
+    {
+        "text": "Michele Marcolini has been manager of A.C. Lumezzane he is part of A.C. Chievo Verona and plays for Vicenza Calcio .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "A.C. Chievo Verona"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Vicenza Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Michele Marcolini has managed A.C. Lumezzane and played for Atalanta B.C . and A.C. Chievo Verona .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Atalanta"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "A.C. Chievo Verona"
+            ]
+        ]
+    },
+    {
+        "text": "Michele Marcolini manages the A.C. Lumezzane , plays for F.C . Bari 1908 and once played for Vicenza Calcio .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "F.C . Bari 1908"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Vicenza Calcio"
+            ]
+        ]
+    },
+    {
+        "text": "Michele Marcolini has played for Atalanta BC . He now manages the A.C. Lumezzane and is at the Torino FC club .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Torino"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Atalanta"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.C. Lumezzane is Michele Marcolini who plays for Torino F.C . and as been associated with F.C . Bari 1908 .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "manager",
+                "Michele Marcolini"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "Torino"
+            ],
+            [
+                "Michele Marcolini",
+                "club",
+                "F.C . Bari 1908"
+            ]
+        ]
+    },
+    {
+        "text": "The A.C. Lumezzane has 4150 members and play in the Lega Pro League .",
+        "triple_list": [
+            [
+                "A.C. Lumezzane",
+                "league",
+                "Lega Pro"
+            ],
+            [
+                "A.C. Lumezzane",
+                "numberOfMembers",
+                "4150"
+            ]
+        ]
+    },
+    {
+        "text": "A.D. Isidro Metapán is located in Metapán , El Salvador . It has 10000 members .",
+        "triple_list": [
+            [
+                "A.D. Isidro Metapán",
+                "numberOfMembers",
+                "10000"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of A.D. Isidro Metapan is Isidro Metapan , their ground is in Metapán and they have 10000 members .",
+        "triple_list": [
+            [
+                "A.D. Isidro",
+                "ground",
+                "Metapán"
+            ],
+            [
+                "A.D. Isidro",
+                "numberOfMembers",
+                "10000"
+            ]
+        ]
+    },
+    {
+        "text": "A.D. Isidro Metapan 's full name is `` Asociación Deportiva '' . They have 10000 members and their ground is in Metapan , El Salvador .",
+        "triple_list": [
+            [
+                "A.D. Isidro",
+                "ground",
+                "``"
+            ],
+            [
+                "A.D. Isidro",
+                "numberOfMembers",
+                "10000"
+            ],
+            [
+                "A.D. Isidro",
+                "fullname",
+                "`` Asociación Deportiva ''"
+            ]
+        ]
+    },
+    {
+        "text": "A.D. ( Asociacion Deportiva ) Isidro Metapan play at the Estadio Jorge Calero Suarez and has 10000 members .",
+        "triple_list": [
+            [
+                "A.D.",
+                "ground",
+                "Estadio Jorge Calero"
+            ],
+            [
+                "A.D.",
+                "numberOfMembers",
+                "10000"
+            ]
+        ]
+    },
+    {
+        "text": "The Asociacion Deportiva is now known as A.D. Isidro Metapan and has 10000 members and plays in Metapan .",
+        "triple_list": [
+            [
+                "A.D. Isidro",
+                "numberOfMembers",
+                "10000"
+            ]
+        ]
+    },
+    {
+        "text": "A.D. Isidro Metapan 's manager is Jorge Humberto Rodriguez who plays for FC Dallas and the El Salvador national football team .",
+        "triple_list": [
+            [
+                "A.D. Isidro",
+                "manager",
+                "Jorge Humberto"
+            ],
+            [
+                "Jorge Humberto",
+                "club",
+                "FC Dallas"
+            ],
+            [
+                "Jorge Humberto",
+                "club",
+                "El Salvador national football team"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece . The capital of the country is Athens and the leader is Prokopis Pavlopoulos .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "capital",
+                "Athens"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Prokopis Pavlopoulos"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece where the leader is Alexis Tsipras and the capital city is Athens .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Alexis Tsipras"
+            ],
+            [
+                "Greece",
+                "capital",
+                "Athens"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece where two of the leaders are Alexis Tsipras and Nikos Voutsis .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Alexis Tsipras"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Nikos Voutsis"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece where two of the leaders are Alexis Tsipras and Prokopis Pavlopoulos .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Alexis Tsipras"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Prokopis Pavlopoulos"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece which is lead by Nikos Voutsis and uses the Greek language .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Nikos Voutsis"
+            ],
+            [
+                "Greece",
+                "language",
+                "Greek language"
+            ]
+        ]
+    },
+    {
+        "text": "Prokopis Pavlopoulos is a leader in Greece where the Greek language is spoken . The country is the location of A.E Dimitra Efxeinoupolis club .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Prokopis Pavlopoulos"
+            ],
+            [
+                "Greece",
+                "language",
+                "Greek language"
+            ]
+        ]
+    },
+    {
+        "text": "A.E Dimitra Efxeinoupolis ground is in the town of Efxeinoupoli . It has 1500 members and plays in the A EPSTH 2nd GROUP .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "numberOfMembers",
+                "1500"
+            ],
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "ground",
+                "Efxeinoupoli"
+            ],
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "league",
+                "A EPSTH 2nd GROUP"
+            ]
+        ]
+    },
+    {
+        "text": "A.E Dimitra Efxeinoupolis played in the 2014 season and has 1500 members . Their ground is located in the town of Efxeinoupoli .",
+        "triple_list": [
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "numberOfMembers",
+                "1500"
+            ],
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "ground",
+                "Efxeinoupoli"
+            ],
+            [
+                "A.E Dimitra Efxeinoupolis",
+                "season",
+                "2014"
+            ]
+        ]
+    },
+    {
+        "text": "A.F.C . Blackpool fullname is `` Association Football Club Blackpool , '' they have 1500 members and their grounds are at Jespon Way .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "ground",
+                "``"
+            ],
+            [
+                "A.F.C . Blackpool",
+                "numberOfMembers",
+                "1500"
+            ],
+            [
+                "A.F.C . Blackpool",
+                "fullname",
+                "`` Association Football Club Blackpool"
+            ]
+        ]
+    },
+    {
+        "text": "A.F.C . Blackpool fullname is `` Association Football Club Blackpool '' . They have 1500 members and their ground is The Mechanics .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "ground",
+                "``"
+            ],
+            [
+                "A.F.C . Blackpool",
+                "numberOfMembers",
+                "1500"
+            ],
+            [
+                "A.F.C . Blackpool",
+                "fullname",
+                "`` Association Football Club Blackpool ''"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker , who used to play for Bury FC and has represented the club KV Mechelen .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Bury"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "KV Mechelen"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) who is attached to Chesterfield football club and plays for Blackburn Rovers F.C .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker ( footballer )"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Chesterfield"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Blackburn Rovers"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) who played for both Chesterfield FC and Bury FC .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker ( footballer )"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Chesterfield"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Bury"
+            ]
+        ]
+    },
+    {
+        "text": "AFC Blackpool have had Stuart Parker as their manager . He is attached to Chesterfield football club and was at Drogheda United FC .",
+        "triple_list": [
+            [
+                "Stuart Parker",
+                "club",
+                "Chesterfield"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Drogheda United"
+            ]
+        ]
+    },
+    {
+        "text": "Stuart Parker is a member of the Chesterfield football club as well as a player for Stockport County F.C . and also managers the A.F.C . Blackpool organization .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Chesterfield"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Stockport County"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) . He is attached to Irlam Town Football Club and a member of the Chesterfield F.C .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker ( footballer )"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Irlam Town"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Chesterfield"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) who was at Drogheda United FC but is currently part of the KV Mechelen club .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker ( footballer )"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "KV Mechelen"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Drogheda United"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker ( footballer ) who has represented the club KV Mechelen and also played for Runcorn FC Halton .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker ( footballer )"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "KV Mechelen"
+            ],
+            [
+                "Stuart Parker ( footballer )",
+                "club",
+                "Runcorn"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.F.C . Blackpool is Stuart Parker who once played for Stockport County FC and currently plays for KV Mechelen .",
+        "triple_list": [
+            [
+                "A.F.C . Blackpool",
+                "manager",
+                "Stuart Parker"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "KV Mechelen"
+            ],
+            [
+                "Stuart Parker",
+                "club",
+                "Stockport County"
+            ]
+        ]
+    },
+    {
+        "text": "A.F.C . Fylde 's ground is Kellamergh Park . They have 3180 members and the full name of `` Association Football Club Fylde . `` .",
+        "triple_list": [
+            [
+                "A.F.C . Fylde",
+                "ground",
+                "``"
+            ],
+            [
+                "A.F.C . Fylde",
+                "numberOfMembers",
+                "3180"
+            ],
+            [
+                "A.F.C . Fylde",
+                "fullname",
+                "`` Association Football Club Fylde"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of A.F.C . Fylde , the 3180 member strong club , is Association Football Club Fylde .",
+        "triple_list": [
+            [
+                "A.F.C . Fylde",
+                "numberOfMembers",
+                "3180"
+            ]
+        ]
+    },
+    {
+        "text": "A.F.C . Fylde has the full name `` Association Football Club Fylde '' and has 3180 . Their home ground is called The Fylde .",
+        "triple_list": [
+            [
+                "A.F.C . Fylde",
+                "ground",
+                "The Fylde"
+            ],
+            [
+                "A.F.C . Fylde",
+                "numberOfMembers",
+                "3180"
+            ],
+            [
+                "A.F.C . Fylde",
+                "fullname",
+                "`` Association Football Club Fylde ''"
+            ]
+        ]
+    },
+    {
+        "text": "A.F.C . Fylde 's manager is Dave Challinor who is affiliated with Tranmere Rovers F.C . and plays for Colwyn Bay F.C . club .",
+        "triple_list": [
+            [
+                "A.F.C . Fylde",
+                "manager",
+                "Dave Challinor"
+            ],
+            [
+                "Dave Challinor",
+                "club",
+                "Tranmere Rovers"
+            ],
+            [
+                "Dave Challinor",
+                "club",
+                "Colwyn Bay"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of the A.F.C . Fylde is `` Association Football Club Fylde '' they are based at Bryning Lane and have 3180 members .",
+        "triple_list": [
+            [
+                "A.F.C . Fylde",
+                "numberOfMembers",
+                "3180"
+            ],
+            [
+                "A.F.C . Fylde",
+                "fullname",
+                "`` Association Football Club Fylde ''"
+            ],
+            [
+                "A.F.C . Fylde",
+                "ground",
+                "``"
+            ]
+        ]
+    },
+    {
+        "text": "Association Football Club Fylde ( abbreviated to A.F.C . Fylde ) has 3180 members and its ground is in Lancashire .",
+        "triple_list": [
+            [
+                "A.F.C . Fylde",
+                "numberOfMembers",
+                "3180"
+            ],
+            [
+                "A.F.C . Fylde",
+                "ground",
+                "Lancashire"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl . It was a part of the 201415 Lega Pro season and has 5300 members .",
+        "triple_list": [
+            [
+                "A.S. Gubbio 1910",
+                "numberOfMembers",
+                "5300"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "season",
+                "201415 Lega Pro"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of A.S. Gubbio 1910 is `` Associazione Sportiva Gubbio 1910 Srl '' , they have 5300 members and played in the 2014 season .",
+        "triple_list": [
+            [
+                "A.S. Gubbio 1910",
+                "fullname",
+                "`` Associazione Sportiva Gubbio 1910 Srl ''"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "season",
+                "2014"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "numberOfMembers",
+                "5300"
+            ]
+        ]
+    },
+    {
+        "text": "Associazione Sportiva Livorno Calcio is the fullname of A.S. Livorno Calcio . They have 19238 members and their ground is in Livorno .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "ground",
+                "Livorno"
+            ],
+            [
+                "A.S. Livorno Calcio",
+                "numberOfMembers",
+                "19238"
+            ]
+        ]
+    },
+    {
+        "text": "Livorno Calcio S.p.A. is abbreviated to A.S. Livorno Calcio . They have 19238 members and grounds in Livorno .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "ground",
+                "Livorno"
+            ],
+            [
+                "A.S. Livorno Calcio",
+                "numberOfMembers",
+                "19238"
+            ]
+        ]
+    },
+    {
+        "text": "The A.S. Livorno Calcio has 19238 members and the full name of Livorno Calcio S.p.A . Their ground is known as Stadio Armando Picchi .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "ground",
+                "Stadio Armando Picchi"
+            ],
+            [
+                "A.S. Livorno Calcio",
+                "numberOfMembers",
+                "19238"
+            ]
+        ]
+    },
+    {
+        "text": "Christian Panucci was a former player for the Italy national football team , now plays for A.S. Roma as well as manages A.S , Livorno Calcio .",
+        "triple_list": [
+            [
+                "A.S.",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "A.S. Roma"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Italy national football team"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Livorno Calcio are managed by Christian Panucci who plays for A.S. Roma and was attached to the Real Madrid CF club .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "A.S. Roma"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Real Madrid"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Livorno Calcio are managed by Christian Panucci who has played for Chelsea FC and is attached to the club Genoa CFC .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Genoa"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Chelsea"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Livorno Calcio are managed by Christian Panucci who plays for Inter Milan and previously for football for Genoa C.F.C .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Genoa"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Inter Milan"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Livorno Calcio are managed by Christian Panucci who played football for Genoa C.F.C . and the Italy national football team .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Genoa"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Italy national football team"
+            ]
+        ]
+    },
+    {
+        "text": "Christian Panucci played for the Italy national football team and Inter Milan as well as managing A.S. Livorno Calcio .",
+        "triple_list": [
+            [
+                "A.S. Livorno Calcio",
+                "manager",
+                "Christian Panucci"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Italy national football team"
+            ],
+            [
+                "Christian Panucci",
+                "club",
+                "Inter Milan"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Roma 's fullname is Associazione Sportiva Roma S.p.A . They have 70634 members and their ground is located in Rome .",
+        "triple_list": [
+            [
+                "A.S. Roma",
+                "numberOfMembers",
+                "70634"
+            ],
+            [
+                "A.S. Roma",
+                "ground",
+                "Rome"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Roma play at the Stadio Olimpico , have 70634 members and their full name is Associazione Sportiva Roma S.p.A .",
+        "triple_list": [
+            [
+                "A.S. Roma",
+                "numberOfMembers",
+                "70634"
+            ],
+            [
+                "A.S. Roma",
+                "ground",
+                "Stadio Olimpico"
+            ]
+        ]
+    },
+    {
+        "text": "Paulo Sousa is the manager of the ACF Fiorentina but played for Maccabi Tel Aviv FC . His club is Juventus .",
+        "triple_list": [
+            [
+                "ACF Fiorentina",
+                "manager",
+                "Paulo Sousa"
+            ],
+            [
+                "Paulo Sousa",
+                "club",
+                "Juventus"
+            ],
+            [
+                "Paulo Sousa",
+                "club",
+                "Maccabi Tel Aviv"
+            ]
+        ]
+    },
+    {
+        "text": "Paulo Sousa is the manager of the ACF Fiorentina . He plays for Maccabi Tel Aviv F.C . and is also a member of the Portugal National Football Team .",
+        "triple_list": [
+            [
+                "ACF Fiorentina",
+                "manager",
+                "Paulo Sousa"
+            ],
+            [
+                "Paulo Sousa",
+                "club",
+                "Maccabi Tel Aviv"
+            ],
+            [
+                "Paulo Sousa",
+                "club",
+                "Portugal"
+            ]
+        ]
+    },
+    {
+        "text": "ACF Fiorentina ( full name : ACF Fiorentina S.p.A. ) competed in the 2014 season and their ground holds 47290 fans .",
+        "triple_list": [
+            [
+                "ACF Fiorentina",
+                "numberOfMembers",
+                "47290"
+            ],
+            [
+                "ACF Fiorentina",
+                "season",
+                "2014"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of ACF Fiorentina is ACF Fiorentina S.p.A. , they have 47290 members and played the 2014-15 season in Serie A .",
+        "triple_list": [
+            [
+                "ACF Fiorentina",
+                "numberOfMembers",
+                "47290"
+            ]
+        ]
+    },
+    {
+        "text": "AEK Athens FC who 's grounds are in Athens compete in the Superleague Greece , the champion of which is Olympiacos F.C .",
+        "triple_list": [
+            [
+                "AEK Athens",
+                "league",
+                "Superleague Greece"
+            ],
+            [
+                "Superleague Greece",
+                "champions",
+                "Olympiacos"
+            ],
+            [
+                "AEK Athens",
+                "ground",
+                "Athens"
+            ]
+        ]
+    },
+    {
+        "text": "AEK Athens F.C . is in the Superleague of Greece ( previous champions : Olympiacos ) , and their home ground is The Olympic Stadium ( Athens ) .",
+        "triple_list": [
+            [
+                "AEK Athens",
+                "league",
+                "Superleague"
+            ],
+            [
+                "Superleague",
+                "champions",
+                "Olympiacos"
+            ],
+            [
+                "AEK Athens",
+                "ground",
+                "Olympic Stadium ( Athens )"
+            ]
+        ]
+    },
+    {
+        "text": "AEK Athens FC , whose home ground is in Greece , has 69618 members and compete in the Superleague Greece .",
+        "triple_list": [
+            [
+                "AEK Athens",
+                "numberOfMembers",
+                "69618"
+            ],
+            [
+                "AEK Athens",
+                "ground",
+                "Greece"
+            ],
+            [
+                "AEK Athens",
+                "league",
+                "Superleague Greece"
+            ]
+        ]
+    },
+    {
+        "text": "The Olympic Stadium ( Athens ) is the home ground of AEK Athens FC who compete in the Superleague Greece . The club has 69618 members .",
+        "triple_list": [
+            [
+                "AEK Athens",
+                "numberOfMembers",
+                "69618"
+            ],
+            [
+                "AEK Athens",
+                "ground",
+                "Olympic Stadium ( Athens )"
+            ],
+            [
+                "AEK Athens",
+                "league",
+                "Superleague Greece"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of AFC Ajax is Amsterdamsche Football Club Ajax . They have 53502 members and were in the Eredivisie for the season 2014-2015 .",
+        "triple_list": [
+            [
+                "AFC Ajax",
+                "numberOfMembers",
+                "53502"
+            ]
+        ]
+    },
+    {
+        "text": "Amsterdamsche Football Club Ajax ( abbreviated to AFC Ajax ) has 53502 members and played in season 2014 .",
+        "triple_list": [
+            [
+                "AFC Ajax",
+                "season",
+                "2014"
+            ],
+            [
+                "AFC Ajax",
+                "numberOfMembers",
+                "53502"
+            ]
+        ]
+    },
+    {
+        "text": "AFC Ajax ( amateurs ) 's ground is Sportpark De Toekomst where Ajax Youth Academy also play .",
+        "triple_list": [
+            [
+                "AFC Ajax ( amateurs )",
+                "ground",
+                "Sportpark De Toekomst"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "operator",
+                "AFC Ajax"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "tenant",
+                "Ajax Youth Academy"
+            ]
+        ]
+    },
+    {
+        "text": "AFC Ajax N.V. own Sportpark De Toekomst where Jong Ajax is the tenant . It is the ground of AFC Ajaz ( amateurs ) .",
+        "triple_list": [
+            [
+                "AFC Ajax",
+                "ground",
+                "Sportpark De Toekomst"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "owner",
+                "AFC Ajax N.V."
+            ],
+            [
+                "Sportpark De Toekomst",
+                "tenant",
+                "Jong Ajax"
+            ]
+        ]
+    },
+    {
+        "text": "Ajax Youth Academy is a tenant of Sportpark De Toekomst which is owned by AFC Ajax NV and is the ground for AFC Ajax ( amateurs ) .",
+        "triple_list": [
+            [
+                "AFC Ajax ( amateurs )",
+                "ground",
+                "Sportpark De Toekomst"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "tenant",
+                "Ajax Youth Academy"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "owner",
+                "AFC Ajax"
+            ]
+        ]
+    },
+    {
+        "text": "AFC Ajax ( amateurs ) 's ground is Sportpark De Toekomst of which both Ajax Youth Academy and Jong Ajax are tenants .",
+        "triple_list": [
+            [
+                "AFC Ajax ( amateurs )",
+                "ground",
+                "Sportpark De Toekomst"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "tenant",
+                "Ajax Youth Academy"
+            ],
+            [
+                "Sportpark De Toekomst",
+                "tenant",
+                "Jong Ajax"
+            ]
+        ]
+    },
+    {
+        "text": "The Amsterdamsche Football Club Ajax Amateurs is now known as AFC Ajax and has 5000 members and has played in the 2014-15 Topklasse season .",
+        "triple_list": [
+            [
+                "AFC Ajax",
+                "numberOfMembers",
+                "5000"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of AFC Ajax ( amateurs ) is `` Amsterdamsche Football Club Ajax Amateurs '' , they have 5000 members and played in the 2014 season .",
+        "triple_list": [
+            [
+                "AFC Ajax ( amateurs )",
+                "season",
+                "2014"
+            ],
+            [
+                "AFC Ajax ( amateurs )",
+                "numberOfMembers",
+                "5000"
+            ],
+            [
+                "AFC Ajax ( amateurs )",
+                "fullname",
+                "`` Amsterdamsche Football Club Ajax Amateurs ''"
+            ]
+        ]
+    },
+    {
+        "text": "The fullname of AZAL PFK is AZAL Pesokar Futbol Klubu , they have 3500 members and were in the 2014 season .",
+        "triple_list": [
+            [
+                "AZAL PFK",
+                "season",
+                "2014"
+            ],
+            [
+                "AZAL PFK",
+                "numberOfMembers",
+                "3500"
+            ]
+        ]
+    },
+    {
+        "text": "AZAL PFK stands for `` AZAL Peşəkar Futbol Klubu '' and they have 3500 members . AZAL PFK Bakou is playing in the Azerbaijan Premier League , 201415 .",
+        "triple_list": [
+            [
+                "AZAL PFK",
+                "fullname",
+                "`` AZAL Peşəkar Futbol Klubu ''"
+            ],
+            [
+                "AZAL PFK",
+                "season",
+                "201415"
+            ],
+            [
+                "AZAL PFK",
+                "numberOfMembers",
+                "3500"
+            ]
+        ]
+    },
+    {
+        "text": "The AZAL PFK , with 3500 members , competes in The Azerbaijan Premier League , with championship team being Qarabag FK .",
+        "triple_list": [
+            [
+                "AZAL PFK",
+                "league",
+                "Azerbaijan Premier League"
+            ],
+            [
+                "Azerbaijan Premier League",
+                "champions",
+                "Qarabag FK"
+            ],
+            [
+                "AZAL PFK",
+                "numberOfMembers",
+                "3500"
+            ]
+        ]
+    },
+    {
+        "text": "AZ Alkmaar has 17023 members and played in the Eredivisie in the 2014-15 season . Their full name is Alkmaar Zaanstreek .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "numberOfMembers",
+                "17023"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom is the manager of AZ Alkmaar as well as a player for ADO Den Haag and De Graafschap .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "ADO Den Haag"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "De Graafschap"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom was manager of AZ Alkmaar and now plays for AFC and Jong Ajax .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "AFC"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "Jong Ajax"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom plays for AFC Ajax and R.S.C . Anderlecht . He is also the manager of AZ Alkmaar .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "AFC Ajax"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "R.S.C . Anderlecht"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom manages the AZ Alkmaair and plays for both R.S.C . Anderlecht and De Graafschap .",
+        "triple_list": [
+            [
+                "AZ",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "R.S.C . Anderlecht"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "De Graafschap"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom played for the Netherlands national football team . He now plays for R.S.C . Anderlecht and is manager of AZ Alkmaar .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "R.S.C . Anderlecht"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "Netherlands national football team"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom is the manager of AZ Alkmaar . He plays for Vitesse Arnhem and ADO Den Haag .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "Vitesse Arnhem"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "ADO Den Haag"
+            ]
+        ]
+    },
+    {
+        "text": "John van den Brom plays for Vitesse Arnhem and in the Jong Ajax club . He is also the manager of AZ Alkmaar .",
+        "triple_list": [
+            [
+                "AZ Alkmaar",
+                "manager",
+                "John van den Brom"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "Vitesse Arnhem"
+            ],
+            [
+                "John van den Brom",
+                "club",
+                "Jong Ajax"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil . Their full name is '' Agremiação Sportiva Arapiraquense '' .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "league",
+                "Campeonato Brasileiro Série C"
+            ],
+            [
+                "Campeonato Brasileiro Série C",
+                "country",
+                "Brazil"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense are managed by Vica and play in the Campeonato Brasileiro Série C league in Brazil .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "league",
+                "Campeonato Brasileiro Série C"
+            ],
+            [
+                "Campeonato Brasileiro Série C",
+                "country",
+                "Brazil"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "manager",
+                "Vica"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil . Their stadium holds 17000 fans .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "league",
+                "Campeonato Brasileiro Série C"
+            ],
+            [
+                "Campeonato Brasileiro Série C",
+                "country",
+                "Brazil"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "numberOfMembers",
+                "17000"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league in Brazil in 2015 .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "league",
+                "Campeonato Brasileiro Série C"
+            ],
+            [
+                "Campeonato Brasileiro Série C",
+                "country",
+                "Brazil"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense play in the Campeonato Brasileiro Série C league , which is based in Brazil and also competed in the 2015 Campeonato Brasileiro Serie C .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "league",
+                "Campeonato Brasileiro Série C"
+            ],
+            [
+                "Campeonato Brasileiro Série C",
+                "country",
+                "Brazil"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015 Campeonato Brasileiro"
+            ]
+        ]
+    },
+    {
+        "text": "The nickname of Agremiação Sportiva Arapiraquense is `` Alvinegro '' , they played in 2015 and they have 17,000 members .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "nickname",
+                "``"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense ( nickname : Alvinegro ) competed in the 2015 Campeonato Brasileiro Série C and their ground holds 17000 fans .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015 Campeonato Brasileiro Série C"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "numberOfMembers",
+                "17000"
+            ]
+        ]
+    },
+    {
+        "text": "The Agremiação Sportiva Arapiraquense is nicknamed Asa Gigante . They have 17000 members and played in the 2015 season .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "numberOfMembers",
+                "17000"
+            ]
+        ]
+    },
+    {
+        "text": "The full name of Agremiação Sportiva Arapiraquense is `` Agremiação Sportiva Arapiraquense '' . The club has 17000 members and competed in the 2015 Campeonato Brasileiro Série C .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "numberOfMembers",
+                "17000"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015 Campeonato Brasileiro Série C"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "fullname",
+                "`` Agremiação Sportiva Arapiraquense ''"
+            ]
+        ]
+    },
+    {
+        "text": "Agremiação Sportiva Arapiraquense , full name is '' Agremiação Sportiva Arapiraquense '' . The club has 17000 members and played in the 2015 season .",
+        "triple_list": [
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "season",
+                "2015"
+            ],
+            [
+                "Agremiação Sportiva Arapiraquense",
+                "numberOfMembers",
+                "17000"
+            ]
+        ]
+    },
+    {
+        "text": "The Akron Summit Assault team is based in Akron , Ohio and play in the Premier Development League where K-W United FC were previous champions .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "Akron , Ohio"
+            ],
+            [
+                "Akron Summit Assault",
+                "league",
+                "Premier Development League"
+            ],
+            [
+                "Premier Development League",
+                "champions",
+                "K-W United FC"
+            ]
+        ]
+    },
+    {
+        "text": "Akron Summit Assault 's ground is St. VincentSt Mary High School , Akron , Ohio , US .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St."
+            ],
+            [
+                "St.",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "Akron Summit Assault 's ground is St. VincentSt Mary High School , Akron , Ohio , which is part of Summit County , Ohio .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St."
+            ],
+            [
+                "Akron , Ohio",
+                "isPartOf",
+                "Summit County , Ohio"
+            ],
+            [
+                "St.",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "Dan Horrigan is the governor of Akron , Ohio which has St. VincentSt Mary High School located in it , and inside the high school is the Akron Summit Assault organization .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St."
+            ],
+            [
+                "Akron , Ohio",
+                "leader",
+                "Dan Horrigan"
+            ],
+            [
+                "St.",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "St. VincentSt Mary High School is in Akron , Ohio which is in Summit County and home to the ground of Akron Summit Assault .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St. VincentSt Mary High School"
+            ],
+            [
+                "Akron , Ohio",
+                "location",
+                "Summit County"
+            ],
+            [
+                "St. VincentSt Mary High School",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "Akron Summit Assault 's ground is located at St. VincentSt Mary High School , Akron , Ohio , United States .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St. VincentSt Mary High School"
+            ],
+            [
+                "Akron , Ohio",
+                "location",
+                "United States"
+            ],
+            [
+                "St. VincentSt Mary High School",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "Akron Summit Assault 's ground is St. VincentSt Mary High School in the city of Akron , Ohio , United States .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St."
+            ],
+            [
+                "St.",
+                "country",
+                "United States"
+            ],
+            [
+                "St.",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "St. Vincent-St Mary High School in Akron , Ohio , is the ground of Akron Summit Assault .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St."
+            ],
+            [
+                "St.",
+                "state",
+                "Ohio"
+            ],
+            [
+                "St.",
+                "city",
+                "Akron , Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "Akron Summit Assault is located at the St. VincentSt Mary High School in Ohio .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "ground",
+                "St."
+            ],
+            [
+                "St.",
+                "state",
+                "Ohio"
+            ]
+        ]
+    },
+    {
+        "text": "Denzil Antonio is the manager of Akron Summit Assault who are in season 2011 and have 3000 members .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "manager",
+                "Denzil Antonio"
+            ],
+            [
+                "Akron Summit Assault",
+                "season",
+                "2011"
+            ],
+            [
+                "Akron Summit Assault",
+                "numberOfMembers",
+                "3000"
+            ]
+        ]
+    },
+    {
+        "text": "Denzil Antonio is the manager of Akron Summit Assault which has 3000 members and played in the 2011 PDL season .",
+        "triple_list": [
+            [
+                "Akron Summit Assault",
+                "numberOfMembers",
+                "3000"
+            ],
+            [
+                "Akron Summit Assault",
+                "manager",
+                "Denzil Antonio"
+            ],
+            [
+                "Akron Summit Assault",
+                "season",
+                "2011 PDL season"
+            ]
+        ]
+    },
+    {
+        "text": "In Italy they speak Italian and is the home to the ground of A.S. Gubbio 1910 as well as the capital city of Rome .",
+        "triple_list": [
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "language",
+                "Italian"
+            ]
+        ]
+    },
+    {
+        "text": "In Italy the capital is Rome , the leader is Sergio Mattarella and the ground of A.S. Gubbio 1910 is located there .",
+        "triple_list": [
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ],
+            [
+                "Italy",
+                "leader",
+                "Sergio Mattarella"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "Italy is where Italian people live , Rome is the capital and the ground of A.S. Gubbio 1910 can be found there .",
+        "triple_list": [
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "The ground of A.S. Gubbio 1910 is located in Italy where they speak Italian . The leader of the country is Pietro Grasso .",
+        "triple_list": [
+            [
+                "Italy",
+                "leader",
+                "Pietro Grasso"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "language",
+                "Italian"
+            ]
+        ]
+    },
+    {
+        "text": "The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader and the capital city is Rome .",
+        "triple_list": [
+            [
+                "Italy",
+                "leader",
+                "Pietro Grasso"
+            ],
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "The ground of A.S. Gubbio 1910 is located in Italy where Pietro Grasso is the leader of the Italians .",
+        "triple_list": [
+            [
+                "Italy",
+                "leader",
+                "Pietro Grasso"
+            ],
+            [
+                "Italy",
+                "demonym",
+                "Italians"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "Pietro Grasso and Sergio Mattarella are leaders in Italy where the ground of A.S. Gubbio 1910 is located .",
+        "triple_list": [
+            [
+                "Italy",
+                "leader",
+                "Pietro Grasso"
+            ],
+            [
+                "Italy",
+                "leader",
+                "Sergio Mattarella"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "The ground of A.S. Gubbio 1910 is located in Italy where the leader is Sergio Mattarella and Italian is the spoken language .",
+        "triple_list": [
+            [
+                "Italy",
+                "leader",
+                "Sergio Mattarella"
+            ],
+            [
+                "A.S. Gubbio 1910",
+                "ground",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "language",
+                "Italian"
+            ]
+        ]
+    },
+    {
+        "text": "Luciano Spalletti played for Empoli F.C . and Virtus Entella . He has also been manager of A.S. Roma .",
+        "triple_list": [
+            [
+                "Luciano Spalletti",
+                "club",
+                "Empoli"
+            ],
+            [
+                "A.S. Roma",
+                "manager",
+                "Luciano Spalletti"
+            ],
+            [
+                "Luciano Spalletti",
+                "club",
+                "Virtus Entella"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of A.S. Roma , Luciano Spalletti , plays for Udinese Calcio and was at the club Virtus Entella .",
+        "triple_list": [
+            [
+                "Luciano Spalletti",
+                "club",
+                "Udinese Calcio"
+            ],
+            [
+                "A.S. Roma",
+                "manager",
+                "Luciano Spalletti"
+            ],
+            [
+                "Luciano Spalletti",
+                "club",
+                "Virtus Entella"
+            ]
+        ]
+    },
+    {
+        "text": "Massimo Drago has been the manager of A.C. Cesena whose club is the S.S. Chieti Calcio . and played for A.S.D . S.S. Nola 1925 .",
+        "triple_list": [
+            [
+                "Massimo Drago",
+                "club",
+                "S.S. Chieti Calcio"
+            ],
+            [
+                "A.C. Cesena",
+                "manager",
+                "Massimo Drago"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "A.S.D . S.S. Nola 1925"
+            ]
+        ]
+    },
+    {
+        "text": "Massimo Drago has been the manager of A.C. Cesena and was at the club A.S.D . Licita 1931 but he currently plays for U.S. Castrovillari Calcio .",
+        "triple_list": [
+            [
+                "Massimo Drago",
+                "club",
+                "U.S. Castrovillari Calcio"
+            ],
+            [
+                "A.C. Cesena",
+                "manager",
+                "Massimo Drago"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "A.S.D ."
+            ]
+        ]
+    },
+    {
+        "text": "Massimo Drago 's club was Calcio Catania and he played for U.S. Castrovillari Calcio . He is now the manager of A.C. Cesena .",
+        "triple_list": [
+            [
+                "Massimo Drago",
+                "club",
+                "U.S. Castrovillari Calcio"
+            ],
+            [
+                "A.C. Cesena",
+                "manager",
+                "Massimo Drago"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "Calcio Catania"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Cesena 's manager Massimo Drago was once a player for U.S. Castrovillari Calcio and is now attached to the club Delfino Pescara 1936 .",
+        "triple_list": [
+            [
+                "Massimo Drago",
+                "club",
+                "U.S. Castrovillari Calcio"
+            ],
+            [
+                "A.C. Cesena",
+                "manager",
+                "Massimo Drago"
+            ],
+            [
+                "Massimo Drago",
+                "club",
+                "Delfino Pescara 1936"
+            ]
+        ]
+    },
+    {
+        "text": "Peter Stöger is affiliated with the SC Wiener Neustadt club and manages 1 . _ FC _ Köln . He also plays for FC Admira Wacker Modling .",
+        "triple_list": [
+            [
+                "Peter Stöger",
+                "club",
+                "FC Admira Wacker"
+            ],
+            [
+                "Peter Stöger",
+                "club",
+                "SC Wiener Neustadt"
+            ]
+        ]
+    },
+    {
+        "text": "Peter Stöger , manager of FC Kolin plays for both SK Rapid Wien and SC Wiener Neustadt .",
+        "triple_list": [
+            [
+                "Peter Stöger",
+                "club",
+                "SK Rapid Wien"
+            ],
+            [
+                "Peter Stöger",
+                "club",
+                "SC Wiener Neustadt"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of 1 . FC Koln is Peter Stoger who played football for SK Vorwärts Steyr and is attached to the club First Vienna FC .",
+        "triple_list": [
+            [
+                "Peter",
+                "club",
+                "SK Vorwärts Steyr"
+            ],
+            [
+                "1 . FC",
+                "manager",
+                "Peter"
+            ],
+            [
+                "Peter",
+                "club",
+                "First Vienna FC"
+            ]
+        ]
+    },
+    {
+        "text": "The manager of 1 . FC Koln is Peter Stoger , he has played for SC Wiener Neustadt and is in the SK Vorwärts Steyr club .",
+        "triple_list": [
+            [
+                "Peter",
+                "club",
+                "SK Vorwärts Steyr"
+            ],
+            [
+                "1 . FC",
+                "manager",
+                "Peter"
+            ],
+            [
+                "Peter",
+                "club",
+                "SC Wiener Neustadt"
+            ]
+        ]
+    },
+    {
+        "text": "Verona , Italy is the home to A.C. Chievo Verona who played in Serie A where the champions were Juventus F.C .",
+        "triple_list": [
+            [
+                "Serie A",
+                "champions",
+                "Juventus"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Chievo Verona 's home ground is Stadio Marc Antonio Bentegodi . They play in the Serie A league of which Juventus FC have been champions .",
+        "triple_list": [
+            [
+                "Serie A",
+                "champions",
+                "Juventus"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "league",
+                "Serie A"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "ground",
+                "Stadio"
+            ]
+        ]
+    },
+    {
+        "text": "With grounds in Verona , A.C. Chievo Verona play in the Serie A league , of which Juventus FC have been champions .",
+        "triple_list": [
+            [
+                "Serie A",
+                "champions",
+                "Juventus"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "league",
+                "Serie A"
+            ],
+            [
+                "A.C. Chievo Verona",
+                "ground",
+                "Verona"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Roma plays in the Serie A league in Rome , Italy but the Serie A champions are Juventus F.C .",
+        "triple_list": [
+            [
+                "Serie A",
+                "champions",
+                "Juventus"
+            ],
+            [
+                "A.S. Roma",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Roma , who have a ground in Rome , play in Serie A alongside Juventus FC who are former champions .",
+        "triple_list": [
+            [
+                "Serie A",
+                "champions",
+                "Juventus"
+            ],
+            [
+                "A.S. Roma",
+                "ground",
+                "Rome"
+            ],
+            [
+                "A.S. Roma",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Roma , whose ground is the Stadio Olimpico play in the Serie A League of which Juventus FC are former champions .",
+        "triple_list": [
+            [
+                "Serie A",
+                "champions",
+                "Juventus"
+            ],
+            [
+                "A.S. Roma",
+                "ground",
+                "Stadio Olimpico"
+            ],
+            [
+                "A.S. Roma",
+                "league",
+                "Serie A"
+            ]
+        ]
+    },
+    {
+        "text": "Ajoblanco , also know as `` Ajo blanco '' , is made with garlic and comes from Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "alternativeName",
+                "`` Ajo blanco ''"
+            ]
+        ]
+    },
+    {
+        "text": "Ajo Blanco ( sometimes called Ajoblanco ) is a dish from Spain that contains water .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "text": "Bread is an ingredient of Ajoblanco which is a food found in Andalusia , in Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Bread"
+            ]
+        ]
+    },
+    {
+        "text": "Garlic is and ingredient of Ajoblanco , a food found in Andalusia , in Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Garlic"
+            ]
+        ]
+    },
+    {
+        "text": "Ajoblanco is made from Olive oil and is found in Andalusia in Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Olive oil"
+            ]
+        ]
+    },
+    {
+        "text": "Coming from Spain , is the dish Ajoblanco ( alternatively known as Ajo blanco ) which has almond as an ingredient .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "text": "Almond is one of the ingredients in Ajoblanco which is from the Andalusia region , in the country of Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Almond"
+            ],
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ]
+        ]
+    },
+    {
+        "text": "Almond , an ingredient in Ajoblanco , is part of the Rosaceae family and is a member of the Rosales order .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Almond"
+            ],
+            [
+                "Almond",
+                "family",
+                "Rosaceae"
+            ],
+            [
+                "Almond",
+                "order",
+                "Rosales"
+            ]
+        ]
+    },
+    {
+        "text": "Almond , which is one of the ingredients of Ajoblanco , is part of the Rosaceae family and also part of the order of Rosids .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Almond"
+            ],
+            [
+                "Almond",
+                "family",
+                "Rosaceae"
+            ],
+            [
+                "Almond",
+                "order",
+                "Rosids"
+            ]
+        ]
+    },
+    {
+        "text": "Almond is part of the order of Rosids and a member of the Rosales order . It is an ingredient of ajoblanco .",
+        "triple_list": [
+            [
+                "Almond",
+                "order",
+                "Rosales"
+            ],
+            [
+                "Almond",
+                "order",
+                "Rosids"
+            ]
+        ]
+    },
+    {
+        "text": "Susana Diaz is the leader of Andalusia ( in Spain ) where Ajoblanco is from .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Andalusia",
+                "leaderName",
+                "Susana"
+            ],
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "text": "Tomatoes , guanciale , cheese , Olive oil are the main ingredients of Amatriciana sauce , which can be found in Italy .",
+        "triple_list": [
+            [
+                "Amatriciana sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Amatriciana sauce",
+                "ingredient",
+                "Olive oil"
+            ]
+        ]
+    },
+    {
+        "text": "Amatriciana sauce can be found in Italy and is made from tomatoes , guanciale , cheese and olive oil .",
+        "triple_list": [
+            [
+                "Amatriciana sauce",
+                "country",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "Amatriciana is a traditional Italian sauce from Lazio containing Olive oil .",
+        "triple_list": [
+            [
+                "Amatriciana",
+                "region",
+                "Lazio"
+            ],
+            [
+                "Amatriciana",
+                "ingredient",
+                "Olive oil"
+            ]
+        ]
+    },
+    {
+        "text": "Pecorino Romano is an ingredient of Amatriciana sauce which comes from the Lazio region , in Italy .",
+        "triple_list": [
+            [
+                "Amatriciana sauce",
+                "region",
+                "Lazio"
+            ],
+            [
+                "Amatriciana sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Amatriciana sauce",
+                "ingredient",
+                "Pecorino Romano"
+            ]
+        ]
+    },
+    {
+        "text": "Tomato is an ingredient of Amatriciana sauce which comes from the Lazio region of Italy .",
+        "triple_list": [
+            [
+                "Amatriciana sauce",
+                "region",
+                "Lazio"
+            ],
+            [
+                "Amatriciana sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Amatriciana sauce",
+                "ingredient",
+                "Tomato"
+            ]
+        ]
+    },
+    {
+        "text": "Avocado is one of the ingredients in the dish Bandeja paisa which is found in the Antioquia Department . The Antioquia Department can be found in the country of Colombia .",
+        "triple_list": [
+            [
+                "Antioquia Department",
+                "country",
+                "Colombia"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Avocado"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Bandeja paisa containing Chicharron is from the Antioquia Department in Colombia .",
+        "triple_list": [
+            [
+                "Antioquia Department",
+                "country",
+                "Colombia"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Arem-arem is a food found nationwide in Indonesia , but is more specific to Java , and it uses the Banana leaf as an ingredient .",
+        "triple_list": [
+            [
+                "Arem-arem",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Arem-arem",
+                "ingredient",
+                "Banana leaf"
+            ]
+        ]
+    },
+    {
+        "text": "Joko Widodo is the leader of Indonesia where the currency is the Indonesian rupiah and Arem-arem is a traditional dish .",
+        "triple_list": [
+            [
+                "Arem-arem",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Indonesia",
+                "leaderName",
+                "Joko Widodo"
+            ],
+            [
+                "Indonesia",
+                "currency",
+                "Indonesian rupiah"
+            ]
+        ]
+    },
+    {
+        "text": "Arem arem originates from the country of Indonesia where Joko Widodo is the leader and Indonesian is the language .",
+        "triple_list": [
+            [
+                "Indonesia",
+                "leaderName",
+                "Joko Widodo"
+            ],
+            [
+                "Indonesia",
+                "language",
+                "Indonesian"
+            ]
+        ]
+    },
+    {
+        "text": "Arem-arem is a food found in Indonesia , where the currecncy is Indonesian rupiah and Jusuf Kalla is a leader .",
+        "triple_list": [
+            [
+                "Arem-arem",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Indonesia",
+                "leaderName",
+                "Jusuf Kalla"
+            ],
+            [
+                "Indonesia",
+                "currency",
+                "Indonesian rupiah"
+            ]
+        ]
+    },
+    {
+        "text": "In Indonesia ; Jusuf Kalla is the leader , Indonesian is the language , and Arem-arem is commonly served .",
+        "triple_list": [
+            [
+                "Arem-arem",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Indonesia",
+                "leaderName",
+                "Jusuf Kalla"
+            ],
+            [
+                "Indonesia",
+                "language",
+                "Indonesian"
+            ]
+        ]
+    },
+    {
+        "text": "Arrabbiata sauce is from Italy , where the capital is Rome and Italian is the language .",
+        "triple_list": [
+            [
+                "Arrabbiata sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ],
+            [
+                "Italy",
+                "language",
+                "Italian"
+            ]
+        ]
+    },
+    {
+        "text": "The sauce called arrabbiata can be found in Italy where Pietro Grasso is the leader and Rome is the capitol city .",
+        "triple_list": [
+            [
+                "Italy",
+                "leaderName",
+                "Pietro Grasso"
+            ],
+            [
+                "Italy",
+                "capital",
+                "Rome"
+            ]
+        ]
+    },
+    {
+        "text": "Arrabbiata sauce is from Italy , where the language is Italian and Pietro Grasso is the leader .",
+        "triple_list": [
+            [
+                "Arrabbiata sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "Italy",
+                "leaderName",
+                "Pietro Grasso"
+            ],
+            [
+                "Italy",
+                "language",
+                "Italian"
+            ]
+        ]
+    },
+    {
+        "text": "Chili pepper is a main ingredient of Arrabbiata sauce from Italy . Oregano can also be added .",
+        "triple_list": [
+            [
+                "Arrabbiata sauce",
+                "dishVariation",
+                "Oregano"
+            ],
+            [
+                "Arrabbiata sauce",
+                "ingredient",
+                "Chili pepper"
+            ],
+            [
+                "Arrabbiata sauce",
+                "country",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "Garlic is an ingredient in Arrabbiata sauce ( found in Italy ) , which can also have oregano added to it .",
+        "triple_list": [
+            [
+                "Arrabbiata sauce",
+                "ingredient",
+                "Garlic"
+            ],
+            [
+                "Arrabbiata sauce",
+                "country",
+                "Italy"
+            ]
+        ]
+    },
+    {
+        "text": "Tomato , from the family of solanaceae , is a key ingredient in an Arrabbiata sauce .",
+        "triple_list": [
+            [
+                "Arrabbiata sauce",
+                "ingredient",
+                "Tomato"
+            ]
+        ]
+    },
+    {
+        "text": "Cephalopod ink is an ingredient in Arròs negre . A dish which is from the Catalonia region , in Spain .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "region",
+                "Catalonia"
+            ],
+            [
+                "Arròs negre",
+                "ingredient",
+                "Cephalopod ink"
+            ]
+        ]
+    },
+    {
+        "text": "Cubanelle is an ingredient in Arròs negre which is a traditional dish from the Catalonia region of Spain .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "region",
+                "Catalonia"
+            ],
+            [
+                "Arròs negre",
+                "ingredient",
+                "Cubanelle"
+            ]
+        ]
+    },
+    {
+        "text": "Cuttlefish is an ingredient in Arròs negre which is from the Catalonia region , in Spain .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "region",
+                "Catalonia"
+            ],
+            [
+                "Arròs negre",
+                "ingredient",
+                "Cuttlefish"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre is from the Catalonia region in Spain , the leaders of Catalonia are the Parliament of Catalonia .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "region",
+                "Catalonia"
+            ],
+            [
+                "Catalonia",
+                "leaderName",
+                "Parliament of Catalonia"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre is from Spain , whose ethic group consists of Spaniards and whose leader is Felipe VI .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Spain",
+                "ethnicGroup",
+                "Spaniards"
+            ],
+            [
+                "Spain",
+                "leaderName",
+                "Felipe VI"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre is a dish from the Catalonia region of Spain , the country where Felipe VI is the leader .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Spain",
+                "leaderName",
+                "Felipe VI"
+            ],
+            [
+                "Arròs negre",
+                "region",
+                "Catalonia"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre , a traditional dish , comes from the region of the Valencian Community in Spain . Cephalopod ink is an ingredient in it .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "region",
+                "Valencian Community"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "ingredient",
+                "Cephalopod ink"
+            ]
+        ]
+    },
+    {
+        "text": "Cubanelle is one of the ingredients in Arròs negre , which comes from the region of the Valencian Community in Spain .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "region",
+                "Valencian Community"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Arròs negre",
+                "ingredient",
+                "Cubanelle"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre is a dish from the Valencian Community in Spain and contains squid .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "region",
+                "Valencian Community"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre made with white rice is from the Valencian Community in Spain .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "region",
+                "Valencian Community"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "text": "Arròs negre comes from the region of the Valencian Community , in Spain , where Felipe VI of Spain is the leader .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "region",
+                "Valencian Community"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "Spain",
+                "leaderName",
+                "Felipe VI of Spain"
+            ]
+        ]
+    },
+    {
+        "text": "Ximo Puig is a leader of the Valencian Community ( Spain ) where Arròs negre comes from .",
+        "triple_list": [
+            [
+                "Arròs negre",
+                "region",
+                "Valencian Community"
+            ],
+            [
+                "Valencian Community",
+                "leaderName",
+                "Ximo Puig"
+            ],
+            [
+                "Arròs negre",
+                "country",
+                "Spain"
+            ]
+        ]
+    },
+    {
+        "text": "A dish popular in Indonesia is Asam pedas from the Malay peninsula region , which is fish cooked in sour and hot sauce .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Asam pedas",
+                "region",
+                "Malay"
+            ]
+        ]
+    },
+    {
+        "text": "The main ingredients of Asam pedas are fish cooked in sour and hot sauce . It is popular in Indonesia and can be found in the region of Sumatra and Malay peninsula .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is made from fish cooked in a hot and sour sauce and is found in Sumatra and Malaysia .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Asam pedas",
+                "region",
+                "Sumatra"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a food found in Malaysia which is lead by Abu Zahar Ujang and has the capital of Kuala Lumpur .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Kuala Lumpur"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Abu Zahar Ujang"
+            ]
+        ]
+    },
+    {
+        "text": "The leader of Malaysia is Najib Razak and the city of Kuala Lumpur is the capitol , it 's also where the dish Asam pedas is found .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Kuala Lumpur"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Najib Razak"
+            ]
+        ]
+    },
+    {
+        "text": "Putrajaya is the capital of Malaysia which has a Malay ethnic group . Asam pedas is a food from there .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Putrajaya"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a food found in Malaysia , where the capital is Putrajaya and the leader is Abu Zahar Ujang .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Putrajaya"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Abu Zahar Ujang"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a food found in Malaysia , where the capital is Putrajaya and where Arifin Zakaria is the leader .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Putrajaya"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Arifin Zakaria"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a food found in Malaysia , the capital of which is Putrajaya . Najib Razak is the leader of Malaysia .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Putrajaya"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Najib Razak"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a food from Malaysia where the capital is Kuala Lumpur , and the chinese are one of the ethnic groups .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Kuala Lumpur"
+            ]
+        ]
+    },
+    {
+        "text": "An ethnic group in Malaysia which is led by Abdul Halim of Kedah are the Malaysian Chinese . Asam pedas is a food found in Malaysia .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "ethnicGroup",
+                "Malaysian Chinese"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Abdul Halim of Kedah"
+            ]
+        ]
+    },
+    {
+        "text": "Abu Zahar Ujang is the leader of Malaysia . An ethnic group there are the Malaysian Chinese . Asam pedas is a food found in that country .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "ethnicGroup",
+                "Malaysian Chinese"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Abu Zahar Ujang"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a dish from Malaysia where the leader is Abdul Halim of Kedah and the capital city is Kuala Lumpur .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Abdul Halim of Kedah"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Kuala Lumpur"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas is a Malaysian dish . The leader of Malaysia is Abdul Halim of Kedah , and its capital is Putrajaya .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "country",
+                "Malaysia"
+            ],
+            [
+                "Malaysia",
+                "leaderName",
+                "Abdul Halim of Kedah"
+            ],
+            [
+                "Malaysia",
+                "capital",
+                "Putrajaya"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas ( from the Malay Peninsula region ) comes from the countries of Indonesia and Malaysia . The main ingredients of Asam pedas are fish cooked in sour and hot sauce .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "region",
+                "Malay Peninsula"
+            ]
+        ]
+    },
+    {
+        "text": "Asam pedas , also known as Asam padeh , is a dish made in Sumatra , coming from the countries of Indonesia and Malaysia .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "region",
+                "Sumatra"
+            ]
+        ]
+    },
+    {
+        "text": "A dish from Sumatra , Malaysia and Indonesia called Asam pedas is fish cooked in a sour and hot sauce .",
+        "triple_list": [
+            [
+                "Asam pedas",
+                "region",
+                "Sumatra"
+            ]
+        ]
+    },
+    {
+        "text": "Fried chicken whose main ingredient is chicken is one of the ingredients in the dish ' Ayam Penyet ' . Ayam penyet can be found nationwide and in Malaysia and Singapore .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "ingredient",
+                "Fried chicken"
+            ]
+        ]
+    },
+    {
+        "text": "Chicken is the main ingredient of fried chicken . Fried chicken is one of the ingredients in the dish , from Singapore , called Ayam Penyet .",
+        "triple_list": [
+            [
+                "Ayam",
+                "ingredient",
+                "Fried chicken"
+            ],
+            [
+                "Fried chicken",
+                "mainIngredients",
+                "Chicken"
+            ],
+            [
+                "Ayam",
+                "region",
+                "Singapore"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet is a food found in Java and can be found nationwide and also in Malaysia and Singapore . `` Squeezed '' or `` smashed '' fried chicken served with sambal is a main ingredient in ayam penyet .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "``"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Java"
+            ],
+            [
+                "Ayam penyet",
+                "mainIngredients",
+                "`` Squeezed '' or `` smashed '' fried chicken served with sambal"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet is made from fried chicken and can be found in Malaysia , Singapore and Indonesia .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet is from Indonesia and can be found nationwide and also in Malaysia and Singapore . The main ingredients of Ayam penyet are `` squeezed '' or `` smashed '' chicken served with sambal .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "``"
+            ],
+            [
+                "Ayam penyet",
+                "mainIngredients",
+                "``"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Fried chicken is an ingredient of the Javan dish Ayam penyet which is popular in Malaysia .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Ayam penyet",
+                "ingredient",
+                "Fried chicken"
+            ]
+        ]
+    },
+    {
+        "text": "A popular dish in Malaysia , Ayam penyet 's main ingredients are squeezed or smashed fried chicken served with sambal .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Malaysia"
+            ]
+        ]
+    },
+    {
+        "text": "Fried chicken is a key ingredient in Ayam penyet from Malaysia .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Ayam penyet",
+                "ingredient",
+                "Fried chicken"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam peyney is a popular dish from Malaysia , and Java where the Baduy are an ethnic group .",
+        "triple_list": [
+            [
+                "Ayam",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Java",
+                "ethnicGroup",
+                "Baduy"
+            ],
+            [
+                "Ayam",
+                "country",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet is a popular dish in Malaysia , but originated in Java where the Banyumasan people are an ethnic group .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Java",
+                "ethnicGroup",
+                "Banyumasan people"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet is a popular dish from Java , Malaysia where the Javanese people live .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Malaysia"
+            ],
+            [
+                "Java",
+                "ethnicGroup",
+                "Javanese people"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet , from the Singapore region of Java , has fried chicken in it .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "text": "Ayam penyet is a dish from the region of Singapore as well as from Java . The main ingredients of Ayam penyet are `` squeezed '' or `` smashed '' chicken served with sambal .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Java"
+            ],
+            [
+                "Ayam penyet",
+                "mainIngredients",
+                "``"
+            ]
+        ]
+    },
+    {
+        "text": "Fried chicken is an ingredient in Ayam penyet , a dish from the region of Singapore , which can also be found in Indonesia .",
+        "triple_list": [
+            [
+                "Ayam penyet",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Ayam penyet",
+                "ingredient",
+                "Fried chicken"
+            ],
+            [
+                "Ayam penyet",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "BLT is a variation of both the Club sandwich and the Bacon sandwich .",
+        "triple_list": [
+            [
+                "BLT",
+                "dishVariation",
+                "Club sandwich"
+            ],
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Condiments are used in the preparation of a Bacon sandwich . A variation of a Bacon sandwich is the BLT which is a variation of a Club sandwich .",
+        "triple_list": [
+            [
+                "BLT",
+                "dishVariation",
+                "Club sandwich"
+            ],
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ]
+        ]
+    },
+    {
+        "text": "The Bacon Explosion originates in the United States . It contains bacon and is served as a main course .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "Bacon Explosion",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon is an ingredient in a Bacon Explosion which is from the Kansas City metropolitan area , in the United States .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "Bacon Explosion",
+                "ingredient",
+                "Bacon"
+            ],
+            [
+                "Bacon Explosion",
+                "region",
+                "Kansas City metropolitan area"
+            ]
+        ]
+    },
+    {
+        "text": "The main ingredients in the American dish Bacon explosion is bacon and sausage .",
+        "triple_list": [
+            [
+                "Bacon",
+                "mainIngredients",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "The Bacon Explosion originates from the Kansas city metropolitan area of the US and includes sausage among it 's ingredients .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "region",
+                "Kansas"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon explosion which contains bacon and sausage is a dish found in the United States .",
+        "triple_list": [
+            [
+                "Bacon",
+                "country",
+                "United States"
+            ],
+            [
+                "Bacon",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "The Bacon Explosion originates from the United States and its main ingredients are bacon and sausage .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "The capitol of the United States is Washington D.C . One of the ethnic groups are African Americans and it is also home to the bacon explosion .",
+        "triple_list": [
+            [
+                "United States",
+                "ethnicGroup",
+                "African Americans"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington"
+            ]
+        ]
+    },
+    {
+        "text": "The Bacon Explosion is from the United States where Asian Americans are one of the ethnic groups and the capital city is Washington D.C .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "Asian Americans"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington"
+            ]
+        ]
+    },
+    {
+        "text": "The capital of the United States is Washington D.C. where White Americans are an ethnic group and the Bacon Explosion was invented .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "White Americans"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington"
+            ]
+        ]
+    },
+    {
+        "text": "The country Bacon Explosion comes from is the United States . It is also the country where Barack Obama is the leader and Asian Americans are one of the ethnic groups .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "leaderName",
+                "Barack Obama"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "Asian Americans"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon Explosion comes from the United States where Asian Americans are one of the ethnic groups and John Roberts is a leader .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "leaderName",
+                "John Roberts"
+            ],
+            [
+                "United States",
+                "ethnicGroup",
+                "Asian Americans"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon Explosion originates from the United States where the capital city is Washington DC and the leader is Paul Ryan .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "country",
+                "United States"
+            ],
+            [
+                "United States",
+                "leaderName",
+                "Paul Ryan"
+            ],
+            [
+                "United States",
+                "capital",
+                "Washington"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon explosion is a main course dish that includes the ingredients sausage and bacon .",
+        "triple_list": [
+            [
+                "Bacon",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon Explosion is served as a main course , it includes sausages and bacon .",
+        "triple_list": [
+            [
+                "Bacon Explosion",
+                "mainIngredients",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Popular in the UK , a Bacon sandwich includes the ingredient bacon and can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon sandwich is from United Kingdom . This sandwich ingredient is Brown sauce and can also be known as a bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece ' n bacon , bacon cob , bacon barm , or bacon muffin .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "country",
+                "United Kingdom"
+            ],
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Brown sauce"
+            ]
+        ]
+    },
+    {
+        "text": "Tomato is an ingredient in a BLT sandwich which is also known as a Club sandwich or Bacon sandwich .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "BLT",
+                "dishVariation",
+                "Club sandwich"
+            ],
+            [
+                "BLT",
+                "ingredient",
+                "Tomato"
+            ]
+        ]
+    },
+    {
+        "text": "Brown sauce is an ingredient in a Bacon sandwich which is considered a variation of A BLT , which is itself considered to be variation of a Club sandwich .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "BLT",
+                "dishVariation",
+                "Club sandwich"
+            ],
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Brown sauce"
+            ]
+        ]
+    },
+    {
+        "text": "A variation of the BLT , a Bacon sandwich , comes from the United Kingdom and has bacon as the main ingredient .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "Bacon sandwich",
+                "country",
+                "United Kingdom"
+            ],
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Bacon"
+            ]
+        ]
+    },
+    {
+        "text": "Bread is an ingredient of a Bacon sandwich , which is popular in the UK . Another variation for a Bacon sandwich is a BLT .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Bread"
+            ]
+        ]
+    },
+    {
+        "text": "Brown sauce is an ingredient of a Bacon sandwich , a dish from the United Kingdom . Another variation for a Bacon sandwich is a BLT .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "Bacon sandwich",
+                "country",
+                "United Kingdom"
+            ],
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Brown sauce"
+            ]
+        ]
+    },
+    {
+        "text": "The UK dish BLT is a variation of the Bacon sandwich which has ketchup as one of it 's ingredients .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ]
+        ]
+    },
+    {
+        "text": "BLT is a variation of the Club sandwich and the Bacon sandwich . Ketchup can be an ingredient in a Bacon sandwich .",
+        "triple_list": [
+            [
+                "Bacon sandwich",
+                "ingredient",
+                "Ketchup"
+            ],
+            [
+                "BLT",
+                "dishVariation",
+                "Club sandwich"
+            ],
+            [
+                "Bacon sandwich",
+                "dishVariation",
+                "BLT"
+            ]
+        ]
+    },
+    {
+        "text": "Christmas pudding is an ingredient in Baked Alaska , which comes from the region of New York and the country of France .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "Baked Alaska",
+                "region",
+                "New York"
+            ],
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Christmas pudding"
+            ]
+        ]
+    },
+    {
+        "text": "Ice cream is an ingredient in Baked Alaska , which comes from both the country of France and the region of New York .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "Baked Alaska",
+                "region",
+                "New York"
+            ],
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Ice cream"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska is from France where the leader is Gérard Larcher and the currency is the Euro .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Gérard Larcher"
+            ],
+            [
+                "France",
+                "currency",
+                "Euro"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska comes from France where French is the national language and the leader is Gérard Larcher .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Gérard Larcher"
+            ],
+            [
+                "France",
+                "language",
+                "French"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska is from the country of France , which leader is Manuel Valls and the spoken language is French .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Manuel Valls"
+            ],
+            [
+                "France",
+                "language",
+                "French"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska is from France , where Manuel Valls and Gérard Larcher are leaders .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Manuel Valls"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Gérard Larcher"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska , which contains meringue , is a dish found in the region of New York in the U.S .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "region",
+                "New York"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska , coming from France , is a dessert and can be served as an alternative to the confectionery based Sandesh .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska , a cookie type dessert , comes from France .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ]
+        ]
+    },
+    {
+        "text": "A cookie is a dessert , as too is Baked Alaska which has Ice cream as an ingredient .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Ice cream"
+            ]
+        ]
+    },
+    {
+        "text": "Sandesh and Baked Alaska ( which contains Ice cream ) are both desserts .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Ice cream"
+            ]
+        ]
+    },
+    {
+        "text": "Sponge cake is an ingredient of Baked Alaska , a dessert . Sandesh is a nice confectionery dessert .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Sponge cake"
+            ]
+        ]
+    },
+    {
+        "text": "Sponge cake is an ingredient of Baked Alaska , which can come from either Paris ( France ) , New York or Hong Kong .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Sponge cake"
+            ]
+        ]
+    },
+    {
+        "text": "Baked Alaska , with Ice cream as one ingredient , is a dish from the U.S . It is popular in Paris , New York and Hong Kong .",
+        "triple_list": [
+            [
+                "Baked Alaska",
+                "ingredient",
+                "Ice cream"
+            ]
+        ]
+    },
+    {
+        "text": "Bakewell tart includes fruit preserves among it 's ingredients . It is a variant of Bakewell pudding and comes from the region of the Derbyshire Dales .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "dishVariation",
+                "Bakewell tart"
+            ],
+            [
+                "Bakewell tart",
+                "region",
+                "Derbyshire Dales"
+            ]
+        ]
+    },
+    {
+        "text": "A dish popular in the Derbyshire dales is Bakewell tart which has the key ingredient of shortcrust pastry , a variant of this dish is Bakewell pudding .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "dishVariation",
+                "Bakewell tart"
+            ],
+            [
+                "Bakewell tart",
+                "region",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "The main ingredients of Bakewell pudding are ground almond , jam , butter and eggs . The dish was created at the Rutland Arms , Bakewell , Derbyshire .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "Frangipane is an ingredient of Bakewell tart , a variant of Bakewell pudding , from the Derbyshire Dales region .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire Dales"
+            ],
+            [
+                "Bakewell pudding",
+                "dishVariation",
+                "Bakewell tart"
+            ],
+            [
+                "Bakewell tart",
+                "ingredient",
+                "Frangipane"
+            ]
+        ]
+    },
+    {
+        "text": "An ingredient in Bakewell tart , from the Derbyshire Dales region , which is a variant of Bakewell pudding , are fruit preserves .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire Dales"
+            ],
+            [
+                "Bakewell pudding",
+                "dishVariation",
+                "Bakewell tart"
+            ]
+        ]
+    },
+    {
+        "text": "Bakewell pudding ( a variation of which is Bakewell tart that uses shortcrust patry ) , is from the Derbyshire Dales region .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire Dales"
+            ],
+            [
+                "Bakewell pudding",
+                "dishVariation",
+                "Bakewell tart"
+            ]
+        ]
+    },
+    {
+        "text": "Originating from the Derbyshire Dales , Bakewell pudding can be served warm ( freshly baked ) or cold . The main ingredients are ground almond , jam , butter and eggs .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire Dales"
+            ]
+        ]
+    },
+    {
+        "text": "Bakewell pudding comes from the Derbyshire Dales where Patrick McLoughlin is the leader .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire Dales"
+            ],
+            [
+                "Derbyshire Dales",
+                "leaderName",
+                "Patrick McLoughlin"
+            ],
+            [
+                "Derbyshire Dales",
+                "administrativeCounty",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "Bakewell pudding is from the Derbyshire Dales , Derbyshire region where Patrick McLoughlin is the leader .",
+        "triple_list": [
+            [
+                "Bakewell pudding",
+                "region",
+                "Derbyshire Dales"
+            ],
+            [
+                "Derbyshire Dales",
+                "leaderName",
+                "Patrick McLoughlin"
+            ],
+            [
+                "Derbyshire Dales",
+                "isPartOf",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "Tapioca is found in bakso which is popular in Indonesia and Southeastern Asian countries . Bakso comes from Indonesia .",
+        "triple_list": [
+            [
+                "Bakso",
+                "ingredient",
+                "Tapioca"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso , which contains celery , is popular all over Indonesia where it originated , and other Southeastern Asian countries .",
+        "triple_list": [
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso has celery as an ingredient and is found in both Indonesia and China .",
+        "triple_list": [
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Celery is an ingredient in Bakso which comes from and is found in Indonesia .",
+        "triple_list": [
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "ingredient",
+                "Celery"
+            ]
+        ]
+    },
+    {
+        "text": "Ground beef is an ingredient of Bakso from Indonesia .",
+        "triple_list": [
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "ingredient",
+                "Ground beef"
+            ]
+        ]
+    },
+    {
+        "text": "Vermicelli is an ingredient of the dish Bakso which is a food that comes from and is found in Indonesia .",
+        "triple_list": [
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "ingredient",
+                "Vermicelli"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso is made in China , contains noodles and is also found in a region in Indonesia .",
+        "triple_list": [
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso contains noodles and comes from a region in Indonesia .",
+        "triple_list": [
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Bandeja paisa comes from Colombia , from the Antioquia Department region and it 's made with rice .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Avocado is one of the ingredients in Bandeja paisa which is typical Columbian cuisine and found in the Antioquia Department .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Avocado"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Bandeja paisa is a regional dish containing lemons from the Antioquia Department in Columbia .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ]
+        ]
+    },
+    {
+        "text": "Lemon is one of the ingredients in Bandeja paisa , a traditional dish from the Paisa region of Columbia .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Lemon"
+            ],
+            [
+                "Bandeja paisa",
+                "region",
+                "Paisa"
+            ]
+        ]
+    },
+    {
+        "text": "Bandeja paisa includes hogao as an ingredient and is a Columbian dish from the Antioquia Department region .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian"
+            ]
+        ]
+    },
+    {
+        "text": "Part of Columbian cuisine and found in the Antioquia Department , Bandeja paisa 's main ingredients is Pork belly .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Pork belly"
+            ]
+        ]
+    },
+    {
+        "text": "Chorizo is an ingredient in Bandeja paisa which is considered typical Columbian cuisine and found in the Antioquia Department .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Antioquia Department"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Chorizo"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ]
+        ]
+    },
+    {
+        "text": "Pork belly is one of the ingredients of the dish Bandeja paisa . This is a traditional dish from the Paisa region and is part of Columbian cuisine .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Paisa"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Pork belly"
+            ]
+        ]
+    },
+    {
+        "text": "Bandeja paisa , containing Chicharrón , originates from the Paisa region and is part of Columbian cuisine .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Paisa"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Chicharrón"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ]
+        ]
+    },
+    {
+        "text": "Chorizo is an ingredient in Bandeja paisa which is part of Columbian cuisine and is from the Paisa region .",
+        "triple_list": [
+            [
+                "Bandeja paisa",
+                "region",
+                "Paisa"
+            ],
+            [
+                "Bandeja paisa",
+                "ingredient",
+                "Chorizo"
+            ],
+            [
+                "Bandeja paisa",
+                "country",
+                "Columbian cuisine"
+            ]
+        ]
+    },
+    {
+        "text": "Barny cakes can be found in France , where Claude Bartolone leads and French is a language spoken there .",
+        "triple_list": [
+            [
+                "Barny",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "language",
+                "French"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Claude Bartolone"
+            ]
+        ]
+    },
+    {
+        "text": "Barny cakes are found in France where the French language is spoken and the leader is François Hollande .",
+        "triple_list": [
+            [
+                "Barny",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "language",
+                "French language"
+            ],
+            [
+                "France",
+                "leaderName",
+                "François Hollande"
+            ]
+        ]
+    },
+    {
+        "text": "Barny cakes come from France where Manuel Valls is a leader and the French language is spoken .",
+        "triple_list": [
+            [
+                "Barny",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "language",
+                "French language"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Manuel Valls"
+            ]
+        ]
+    },
+    {
+        "text": "France , led by Claude Bartolone and François Hollande , is the location of Barny cakes .",
+        "triple_list": [
+            [
+                "Barny",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "François Hollande"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Claude Bartolone"
+            ]
+        ]
+    },
+    {
+        "text": "The leaders of France are François Hollande and Manuel Valls where barny cakes come from .",
+        "triple_list": [
+            [
+                "France",
+                "leaderName",
+                "François Hollande"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Manuel Valls"
+            ]
+        ]
+    },
+    {
+        "text": "Barny cakes are found in France where the French language is spoken and Gérard Larcher is leader .",
+        "triple_list": [
+            [
+                "Barny",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Gérard Larcher"
+            ],
+            [
+                "France",
+                "language",
+                "French language"
+            ]
+        ]
+    },
+    {
+        "text": "François Hollande and Gérard Larcher are leaders in France , where Barny Cakes come from .",
+        "triple_list": [
+            [
+                "Barny Cakes",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Gérard Larcher"
+            ],
+            [
+                "France",
+                "leaderName",
+                "François Hollande"
+            ]
+        ]
+    },
+    {
+        "text": "Barny cakes can be found in France , where two of the leaders are , Gérard Larcher and Manuel Valls .",
+        "triple_list": [
+            [
+                "Barny",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Gérard Larcher"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Manuel Valls"
+            ]
+        ]
+    },
+    {
+        "text": "Batagor and Shumai are variations of a dish that contains Peanut sauce .",
+        "triple_list": [
+            [
+                "Batagor",
+                "ingredient",
+                "Peanut sauce"
+            ],
+            [
+                "Batagor",
+                "dishVariation",
+                "Shumai"
+            ]
+        ]
+    },
+    {
+        "text": "Shiitake is a key ingredient of Shumai which is a variation of Batagor and Siomay .",
+        "triple_list": [
+            [
+                "Batagor",
+                "dishVariation",
+                "Siomay"
+            ],
+            [
+                "Shumai",
+                "ingredient",
+                "Shiitake"
+            ],
+            [
+                "Batagor",
+                "dishVariation",
+                "Shumai"
+            ]
+        ]
+    },
+    {
+        "text": "Batagor , made with Peanut sauce , is a variation of the Siomay and similar Shumai dishes .",
+        "triple_list": [
+            [
+                "Batagor",
+                "dishVariation",
+                "Siomay"
+            ],
+            [
+                "Siomay",
+                "dishVariation",
+                "Shumai"
+            ],
+            [
+                "Batagor",
+                "ingredient",
+                "Peanut sauce"
+            ]
+        ]
+    },
+    {
+        "text": "Batagor is a variation of the Siomay dish , which is similar to Shumai ( containing shiitake ) .",
+        "triple_list": [
+            [
+                "Batagor",
+                "dishVariation",
+                "Siomay"
+            ],
+            [
+                "Siomay",
+                "dishVariation",
+                "Shumai"
+            ]
+        ]
+    },
+    {
+        "text": "Batagor , Siomay and Shumai are all variations of the same dish that contains Peanut sauce .",
+        "triple_list": [
+            [
+                "Batagor",
+                "dishVariation",
+                "Siomay"
+            ],
+            [
+                "Siomay",
+                "dishVariation",
+                "Shumai"
+            ],
+            [
+                "Siomay",
+                "ingredient",
+                "Peanut sauce"
+            ]
+        ]
+    },
+    {
+        "text": "Batchoy comes from the Philippines and has the main ingredients of noodles , pork organs , vegetables , chicken , shrimp , beef .",
+        "triple_list": [
+            [
+                "Batchoy",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "Philippines is the country Batchoy comes from , the main ingredients of which are noodles , pork organs , vegetables , chicken , shrimp and beef .",
+        "triple_list": [
+            [
+                "Batchoy",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "Philippines is the country Batchoy comes from . The main ingredients in this dish are noodles , pork organs , vegetables , chicken , shrimp , and beef .",
+        "triple_list": [
+            [
+                "Batchoy",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow comes from Singapore and Indonesia and has Palm sugar as an ingredient .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Palm sugar"
+            ],
+            [
+                "Beef kway teow",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "A dish which comes from Indonesia and is popular in Singapore is Beef kway teow , it has Sesame oil among it 's ingredients .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Sesame oil"
+            ],
+            [
+                "Beef kway teow",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "The leader of Singapore is Tony Tan , it 's also where Beef kway teow is from . Beef kway teow is also found in Indonesia .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Beef kway teow",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Tony Tan"
+            ]
+        ]
+    },
+    {
+        "text": "Halimah Yacob is a leader in Chinese speaking Singapore where they make Beef kway teow .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Halimah Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "Palm sugar is an ingredient in Beef kway teow , a dish originating from Indonesia and also commonly found in Singapore .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Palm sugar"
+            ],
+            [
+                "Beef kway teow",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Sesame oil is an ingredient in Beef kway teow which comes from the region of Indonesia and is made in Singapore and Indonesia .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Sesame oil"
+            ],
+            [
+                "Beef kway teow",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is made in Indonesia , and Singapore where Halimah Yacob is the leader .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Halimah Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is a dish of Singapore , whose leaders include Tony Tan , and is also made in Indonesia .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Tony Tan"
+            ]
+        ]
+    },
+    {
+        "text": "An ingredient of Beef kway teow , which originates from Singapore and Indonesia is Palm sugar .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Beef kway teow",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Palm sugar"
+            ]
+        ]
+    },
+    {
+        "text": "Halimah Yacob is a leader of Singapore , where Beef kway teow originates from . It is a dish which can also be found in indonesia .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Halimah Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow , which contains Palm sugar , is a dish made in Singapore and Indonesia .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Palm sugar"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is a dish of Singapore containing Sesame oil and can be found in the countries of Indonesia and Singapore .",
+        "triple_list": [
+            [
+                "Beef kway teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Beef kway teow",
+                "ingredient",
+                "Sesame oil"
+            ]
+        ]
+    },
+    {
+        "text": "Coming form India and made with Gram flour , Bhajji , has the alternative names Bhaji and bajji .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "Bhajji",
+                "ingredient",
+                "Gram flour"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji , whose alternative names are Bhaji and Bajji , comes from the country of India . It includes vegetables .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji originates from India . Gram flour and vegetables are main ingredients in it .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ]
+        ]
+    },
+    {
+        "text": "Gram flour is an ingredient in Bhajji which comes from the Karnataka region in India .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "Bhajji",
+                "region",
+                "Karnataka"
+            ],
+            [
+                "Bhajji",
+                "ingredient",
+                "Gram flour"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji come from the Karnataka region of India , it includes vegetables .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "Bhajji",
+                "region",
+                "Karnataka"
+            ]
+        ]
+    },
+    {
+        "text": "Vajubhai Vala is the leader of the Karnataka region in India where Bhajji originates from .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "Bhajji",
+                "region",
+                "Karnataka"
+            ],
+            [
+                "Karnataka",
+                "leaderName",
+                "Vajubhai Vala"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji comes from the country of India , where Narendra Modi is a leader and the Indian rupee is the currency .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "currency",
+                "Indian rupee"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Narendra Modi"
+            ]
+        ]
+    },
+    {
+        "text": "The leader of India is T. S. Thakur and has a currency called the rupee . Bhajji comes from that country .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "leaderName",
+                "T. S. Thakur"
+            ]
+        ]
+    },
+    {
+        "text": "Narendra Modi leads India whose people are known as Indians . Bhajji comes from India .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Narendra Modi"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji come from India where Sumitra Mahajan is the leader of the Indian people .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "demonym",
+                "Indian people"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Sumitra Mahajan"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji originates from India where Narendra Modi and Sunmitra Mahajan are leaders , .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Narendra Modi"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji originates from India , where T. S. Thakur and Sumitra Mahajan are leaders .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "leaderName",
+                "T. S. Thakur"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Sumitra Mahajan"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji is from the Karnataka region . The ingredients in Bhajji include Gram flour and vegetables .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "region",
+                "Karnataka"
+            ]
+        ]
+    },
+    {
+        "text": "Coconut milk is an ingredient of Binignit , a type of dessert . Another type of dessert is sandesh .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Coconut milk"
+            ]
+        ]
+    },
+    {
+        "text": "Sago is a key ingredient of a dish called Binignit which like Sandesh is a dessert .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Sago"
+            ]
+        ]
+    },
+    {
+        "text": "Binignit is a type of dessert like Cookies . It is made from Sweet potato .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Sweet potato"
+            ]
+        ]
+    },
+    {
+        "text": "Binignit is a dessert which contains Sweet potato . Sandesh ( confectionery ) is also a dessert .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Sweet potato"
+            ]
+        ]
+    },
+    {
+        "text": "Two of the main ingredients in binignit are banana and Sweet potato ( of the order of Solanales ) .",
+        "triple_list": [
+            [
+                "Sweet potato",
+                "order",
+                "Solanales"
+            ]
+        ]
+    },
+    {
+        "text": "One of the main ingredients of binignit is Coconut milk . Another ingredient is Sweet potato which is from the order Solanales .",
+        "triple_list": [
+            [
+                "Sweet potato",
+                "order",
+                "Solanales"
+            ]
+        ]
+    },
+    {
+        "text": "Binignit recipes typically contain Sweet potatoes and sago . Sweet potatoes belong to the order Solanales .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Sweet"
+            ],
+            [
+                "Sweet",
+                "order",
+                "Solanales"
+            ]
+        ]
+    },
+    {
+        "text": "Sweet potato and Taro are two of the main ingredients in Binignit , a dish that can be found in the Philippines .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Sweet potato"
+            ],
+            [
+                "Binignit",
+                "mainIngredients",
+                "Taro"
+            ],
+            [
+                "Binignit",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "The main ingredients of Binignit are Taro and Sweet potato ( of the order Solanales ) .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Sweet potato"
+            ],
+            [
+                "Binignit",
+                "mainIngredients",
+                "Taro"
+            ],
+            [
+                "Sweet potato",
+                "order",
+                "Solanales"
+            ]
+        ]
+    },
+    {
+        "text": "Taro is an ingredient in Binignit , a dessert . Sandesh ( confectionery ) is also a dish that can be served as a dessert .",
+        "triple_list": [
+            [
+                "Binignit",
+                "ingredient",
+                "Taro"
+            ]
+        ]
+    },
+    {
+        "text": "The main ingredient of Binignit is Coconut milk and it also contains sago . The dish comes from the Philippines .",
+        "triple_list": [
+            [
+                "Binignit",
+                "mainIngredients",
+                "Coconut milk"
+            ],
+            [
+                "Binignit",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "One of the main ingredients of the cuisine of Binignit , in the Philippines , is the Sweet potato , and another is Coconut milk .",
+        "triple_list": [
+            [
+                "Binignit",
+                "mainIngredients",
+                "Sweet potato"
+            ],
+            [
+                "Binignit",
+                "country",
+                "Philippines"
+            ],
+            [
+                "Binignit",
+                "ingredient",
+                "Coconut milk"
+            ]
+        ]
+    },
+    {
+        "text": "Two types of dessert are Sandesh and Binignit . The latter has Sweet potato as a main ingredient .",
+        "triple_list": [
+            [
+                "Binignit",
+                "mainIngredients",
+                "Sweet potato"
+            ]
+        ]
+    },
+    {
+        "text": "Coconut milk is an ingredient of Binignit along with Sweet potatoes which belong to the solanales order of plants .",
+        "triple_list": [
+            [
+                "Binignit",
+                "mainIngredients",
+                "Sweet"
+            ],
+            [
+                "Binignit",
+                "ingredient",
+                "Coconut milk"
+            ]
+        ]
+    },
+    {
+        "text": "One of the main ingredients of Binignit is the Sweet potato ( part of the order of Solanales . ) , another ingredient that can be used is Sago .",
+        "triple_list": [
+            [
+                "Binignit",
+                "mainIngredients",
+                "Sweet potato"
+            ],
+            [
+                "Binignit",
+                "ingredient",
+                "Sago"
+            ],
+            [
+                "Sweet potato",
+                "order",
+                "Solanales"
+            ]
+        ]
+    },
+    {
+        "text": "Sweet potatoes are part of the order of Solanales and are a main ingredient of Binignit which also contains taro .",
+        "triple_list": [
+            [
+                "Binignit",
+                "mainIngredients",
+                "Sweet"
+            ],
+            [
+                "Sweet",
+                "order",
+                "Solanales"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico is from the Guadalajara region of Mexico , and it contains Condensed milk .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Guadalajara"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "Condensed milk"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico from Guadalajara region is found in Mexico and contains granola .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Guadalajara"
+            ]
+        ]
+    },
+    {
+        "text": "Sour cream is an ingredient of Bionico , a food that can be found in Guadalajara , in Mexico .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Guadalajara"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "Sour cream"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico , a food found in the region of Jalsico , Mexico , contains Condensed milk .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "Condensed milk"
+            ]
+        ]
+    },
+    {
+        "text": "Granola is an ingredient of Bionico which comes from the region Jalisco , in Mexico .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Jalisco"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "Granola"
+            ]
+        ]
+    },
+    {
+        "text": "Sour cream is an ingredient of Bionico which is a food found in the Jalisco region of Mexico .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Jalisco"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "Sour cream"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico is a food found in Mexico . Mexico 's currency is the Peso and a leader in Mexico is Enrique Pena Nieto .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Enrique"
+            ]
+        ]
+    },
+    {
+        "text": "Enrique Pena Nieto is the leader of Mexico , where the language is Spanish and also where the food Bionico is found .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Mexico",
+                "language",
+                "Spanish"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Enrique"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico is from Mexico where the leader is Silvano Aureoles Conejo and the language is Spanish .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Mexico",
+                "language",
+                "Spanish"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Silvano Aureoles Conejo"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico is a food found in Mexico , where Enrique Pena Nieto is the leader and Mexicans are the inhabitants .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Enrique"
+            ],
+            [
+                "Mexico",
+                "demonym",
+                "Mexicans"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico is a dish from Mexico , where Enrique Pena Nieto is a leader and Mexican Spanish is spoken .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Mexico",
+                "leaderName",
+                "Enrique"
+            ],
+            [
+                "Mexico",
+                "language",
+                "Mexican Spanish"
+            ]
+        ]
+    }

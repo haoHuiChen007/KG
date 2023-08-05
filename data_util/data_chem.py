@@ -1,0 +1,2 @@
+from chemdataextractor import Document
+
